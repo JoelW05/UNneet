@@ -1,0 +1,36 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# builds
+dist/
+.next/
+.turbo/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# local tool config
+.claude/
+
+# local data & secrets
+.data/
+.env
+.env.*
+!.env.example
+
+# tests
+coverage/
+playwright-report/
+test-results/
+blob-report/
+
+# logs / OS / editor
+*.log
+.check-done
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json

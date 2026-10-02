@@ -1,0 +1,1071 @@
+{
+  "_comment": "REAL recorded vacancies from the Find an apprenticeship Display Advert API v2, fetched 2026-10-01 with IncludeDetails=true and the AdditionalDataSources header set to Nhs,Csj. Chosen to cover the awkward shapes (several addresses, scheme-less URLs, national vacancies, NHS and Civil Service adverts, competitive pay). Employer contact fields are stripped. Open Government Licence v3.0.",
+  "vacancies": [
+    {
+      "employerDescription": "North Staffordshire Engineering Group Training Association Ltd have a strong track record of working with local engineering companies for over fifty years.\r\n The largest dedicated engineering training organisation in Stoke on Trent we pride ourselves on our unique historical links with the local engineering sector.",
+      "trainingDescription": "<p>Level 2 Engineering Operative apprenticeship standard which includes:</p>\r\n<ul>\r\n<li>Level 2 Diploma in Engineering Operations (skills)</li>\r\n<li>Certificate or Diploma in Engineering Operations (knowledge)</li>\r\n<li>Functional Skills in maths or English (if required)</li>\r\n<li>Learning will take place in the workplace with the need to attend training at NSEGTA premises - Training schedule has yet to be agreed. Details will be made available at a later date.&nbsp;</li>\r\n</ul>",
+      "outcomeDescription": "<ul>\r\n<li>The successful candidate will have the opportunity to progress into full time employment following the completion of the apprenticeship and / or another apprenticeship as agreed with the company.</li>\r\n</ul>",
+      "fullDescription": "<p>The successful apprentice will be trained by a skilled Maintenance Engineering in the following duties (but not limited to):</p>\r\n<ul>\r\n<li>Planned maintenance; servicing and repairs of all equipment on site</li>\r\n<li>Reactive breakdown maintenance and repairs of all equipment on site</li>\r\n<li>To keep repairs and servicing in-line with the Maintenance Management System</li>\r\n<li>To log breakdowns on the company breakdown log</li>\r\n<li>To help with the control of critical spares</li>\r\n<li>Other duties will include, keeping the workspace clean and tidy and other ad-hoc duties where required.</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "IT skills",
+        "Attention to detail",
+        "Problem solving skills",
+        "Number skills",
+        "Logical",
+        "Team working"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Desired",
+          "qualificationType": "GCSE or equivalent",
+          "subject": "English",
+          "grade": "A-C / 4"
+        },
+        {
+          "weighting": "Desired",
+          "qualificationType": "GCSE or equivalent",
+          "subject": "Maths",
+          "grade": "A-C / 4"
+        }
+      ],
+      "title": "Apprentice Maintenance Engineer",
+      "description": "We have an opportunity for a Maintenance Engineer role with a local company.  The successful applicant will be trained to carry out repairs and maintenance of all equipment on site. Repairs and maintenance will be both reactive and planned-in, in accordance with the company plan. You will be expected to work safely and meet the quality standards.",
+      "numberOfPositions": 1,
+      "postedDate": "2024-08-08T11:08:45.607Z",
+      "closingDate": "2026-10-30T23:59:59Z",
+      "startDate": "2026-11-01T00:00:00Z",
+      "wage": {
+        "wageType": "ApprenticeshipMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£16,640 a year",
+        "workingWeekDescription": "Monday - Thursday, 8.00am until 4.45pm. \r\nFriday, 8.00am until 3.15pm."
+      },
+      "hoursPerWeek": 40,
+      "expectedDuration": "1 Year 7 Months",
+      "addresses": [
+        {
+          "addressLine1": "Hanley Technical Institute 151-153 Marsh Street North",
+          "addressLine2": "Hanley",
+          "addressLine3": "Stoke-On-Trent",
+          "addressLine4": "Staffordshire",
+          "postcode": "ST1 5HR",
+          "latitude": 53.02715,
+          "longitude": -2.17969
+        }
+      ],
+      "distance": 0,
+      "employerName": "NORTH STAFFORDSHIRE ENGINEERING GROUP TRAINING ASSOCIATION LIMITED",
+      "course": {
+        "larsCode": 352,
+        "title": "Engineering operative (level 2)",
+        "level": 2,
+        "route": "Engineering and manufacturing",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Intermediate",
+      "providerName": "NORTH STAFFORDSHIRE ENGINEERING GROUP TRAINING ASSOCIATION LIMITED",
+      "ukprn": 10028012,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/1000270243",
+      "vacancyReference": "1000270243",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "he Grange Pre-school, Southcote was founded in 1967 and believes that every child deserves a high quality of care and education; we are dedicated to the care and development of your child. We encourage the children to learn through play and by having fun.\r\n\r\nWe are a parent led Pre-school. This means that the parents/carers on the management committee lead the Pre-school. The parents/carers elect a chair person, a treasurer, secretary and committee members who jointly make the decisions and are responsible to Ofsted. It means the Pre-school belongs to the people who use it!\r\n\r\nWe are registered with Ofsted, members of the Early Years Alliance and a registered charity.\r\n\r\nOur aim is to support you and your child by providing a safe, happy and caring environment where your child will grow in confidence and knowledge.",
+      "trainingDescription": "<ul>\r\n<li>You will work towards your Level 3 Diploma for The Early Years Workforce (Early Years Educator)</li>\r\n<li>Training will take place at Chiltern Training in Reading Town Centre, 5th Floor, One Valpy, 20 Valpy Street, Reading RG1 1AR&nbsp;</li>\r\n<li>Lessons are once a month face to face</li>\r\n<li>Training will include paediatric first aid qualification</li>\r\n</ul>",
+      "outcomeDescription": "<p>As an Early Years Educator with a Level 3 qualification, you play a crucial role in the development and education of children from birth to five years old.</p>\r\n<p>This role involves creating and implementing learning activities, monitoring children&rsquo;s progress, and ensuring their safety and well-being.</p>\r\n<p>You will be working closely with children, parents, and other professionals to provide a nurturing and stimulating environment.</p>\r\n<p>Job Opportunities:</p>\r\n<ul>\r\n<li>Nursery Practitioner</li>\r\n<li>Room Leader</li>\r\n<li>Nursery Manager</li>\r\n<li>Early Childhood Education Consultant</li>\r\n<li>Family Support Worker</li>\r\n<li>Hospital Play Worker</li>\r\n</ul>",
+      "fullDescription": "<ul>\r\n<li>Support the activities of all curriculum areas in the classroom</li>\r\n<li>Work with individuals and groups to support their learning</li>\r\n<li>Provide for the general welfare, safeguarding and pastoral care of children</li>\r\n<li>Perform organisational and administrative tasks to support the running of the school day</li>\r\n<li>Be self-motivated and liaise with members of staff throughout the school, working effectively as a member of the team</li>\r\n<li>Prepare and clear away materials and assist with displays and general classroom organisation and productions</li>\r\n<li>Attend educational visits supporting the students&rsquo; learning and may have the opportunity to attend residential visits</li>\r\n<li>Share children&rsquo;s learning through updating Tapestry, report writing and meeting with parents</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "Organisation skills",
+        "Team working",
+        "Creative",
+        "Initiative",
+        "Non judgemental",
+        "Patience",
+        "Flexible",
+        "Proactive",
+        "Verbal and Written skills",
+        "Upbeat and caring approach"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Essential",
+          "qualificationType": "NVQ Level 2 or NCFE/Cache Level 2 Diploma for the",
+          "subject": "Childcare",
+          "grade": "Level 2"
+        }
+      ],
+      "title": "Early Years Apprentice (Level 3)",
+      "description": "Enrolment onto the Level 3 Diploma for The Early Years Workforce (Early Years Educator). The opportunity to gain valuable childcare experience, working with children aged 3–4 years in a nursery setting. 20% ‘off the job’ learning time. Regular training with a local provider. An assigned assessor who will complete regular progress reviews.",
+      "numberOfPositions": 1,
+      "postedDate": "2025-10-08T15:20:28.267Z",
+      "closingDate": "2026-12-31T23:59:59Z",
+      "startDate": "2027-01-01T00:00:00Z",
+      "wage": {
+        "wageType": "NationalMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£12,480 to £19,827.60 a year",
+        "workingWeekDescription": "This is a fixed term, full-time/part-time position, working term time only. Exact working days and hours TBC."
+      },
+      "hoursPerWeek": 30,
+      "expectedDuration": "1 Year 6 Months",
+      "addresses": [
+        {
+          "addressLine1": "UNITED REFORM CHURCH",
+          "addressLine2": "CIRCUIT LANE",
+          "addressLine3": "SOUTHCOTE",
+          "addressLine4": "READING",
+          "postcode": "RG30 3HD",
+          "latitude": 51.4413,
+          "longitude": -1.00573
+        }
+      ],
+      "distance": 0,
+      "employerName": "THE GRANGE PRE SCHOOL",
+      "employerWebsiteUrl": "https://www.thegrangepre-school.org.uk/",
+      "course": {
+        "larsCode": 430,
+        "title": "Early years educator (level 3)",
+        "level": 3,
+        "route": "Education and early years",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Advanced",
+      "providerName": "CHILTERN TRAINING LIMITED",
+      "ukprn": 10001394,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/1000345627",
+      "vacancyReference": "1000345627",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "<ul>\r\n<li>At Say Nurseries Ltd, we believe early years education is one of the most important stages in a child&rsquo;s life.</li>\r\n<li>Every day, our nursery teams help babies and young children feel safe, happy, confident and ready to learn. Through play, care, creativity and positive relationships, we support children to develop their social skills, independence, communication and confidence.</li>\r\n<li>When children leave our nursery to begin school, our aim is for them to feel prepared, capable and excited for the next stage of their journey.</li>\r\n<li>We are looking for apprentices who want to be part of this important work and grow with us in a rewarding childcare career.</li>\r\n</ul>",
+      "trainingDescription": "<ul>\r\n<li>Early Years Educator Level 3 Apprenticeship Standard</li>\r\n<li>Training will include a Paediatric First Aid qualification</li>\r\n<li>Training will be done at location</li>\r\n</ul>",
+      "outcomeDescription": "<ul>\r\n<li>Permanent position</li>\r\n</ul>",
+      "fullDescription": "<ul>\r\n<li>Support children aged 3 months to 5 years with their learning, play and daily routines</li>\r\n<li>Help create a safe, caring and stimulating nursery environment</li>\r\n<li>Build positive relationships with children, parents, carers and staff</li>\r\n<li>Support children&rsquo;s communication, independence, confidence and social development</li>\r\n<li>Help plan and take part in fun learning activities, including stories, songs, creative play, outdoor play and group activities</li>\r\n<li>Work with experienced nursery practitioners who will guide and support your development</li>\r\n<li>Learn how to observe children&rsquo;s progress and support their individual needs</li>\r\n<li>Understand and follow safeguarding, health and safety, and child protection procedures</li>\r\n<li>Attend training, team meetings and supervision sessions as part of your development</li>\r\n<li>Take responsibility for your own learning and work towards becoming a qualified Early Years Educator</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "IT skills",
+        "Attention to detail",
+        "Organisation skills",
+        "Customer care skills",
+        "Problem solving skills",
+        "Presentation skills",
+        "Administrative skills",
+        "Number skills",
+        "Analytical skills",
+        "Logical",
+        "Team working",
+        "Creative",
+        "Initiative",
+        "Non judgemental",
+        "Patience",
+        "Physical fitness"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Desired",
+          "qualificationType": "GCSE",
+          "subject": "English",
+          "grade": "4"
+        },
+        {
+          "weighting": "Desired",
+          "qualificationType": "GCSE",
+          "subject": "Maths",
+          "grade": "4"
+        }
+      ],
+      "thingsToConsider": "<ul>\r\n<li>Passing a Disclosure and Barring Service (DBS) check</li>\r\n<li>Working outside</li>\r\n</ul>",
+      "companyBenefitsInformation": "<ul>\r\n<li>Uniform provided</li>\r\n<li>Internal Training</li>\r\n<li>Social Events</li>\r\n<li>Employee of the Month</li>\r\n<li>20 days paid annual leave + bank holidays</li>\r\n</ul>",
+      "title": "Start Your Career in Childcare – Level 3 Early Years Educator Apprenticeship",
+      "description": "<p>Start your career in childcare with our supportive nursery team.</p> <p>You will earn while you learn, gain a Level 3 Early Years Educator qualification, and help children aged 3 months to 5 years learn, play and grow. No nursery experience needed, just passion, care and willingness to learn.</p>",
+      "numberOfPositions": 2,
+      "postedDate": "2026-04-28T09:11:55.837Z",
+      "closingDate": "2026-11-06T23:59:59Z",
+      "startDate": "2026-11-20T00:00:00Z",
+      "wage": {
+        "wageType": "Custom",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£20,800 a year",
+        "workingWeekDescription": "Monday - Friday, 8.30am - 5.30pm and 9.00am - 6.00pm."
+      },
+      "hoursPerWeek": 40,
+      "expectedDuration": "1 Year 6 Months",
+      "addresses": [
+        {
+          "addressLine1": "394 Whitestone Way",
+          "addressLine3": "Croydon",
+          "postcode": "CR0 4FJ",
+          "latitude": 51.37401,
+          "longitude": -0.11486
+        },
+        {
+          "addressLine1": "100 Lampton Road",
+          "addressLine3": "Hounslow",
+          "postcode": "TW3 4EB",
+          "latitude": 51.47482,
+          "longitude": -0.36795
+        }
+      ],
+      "distance": 0,
+      "employerName": "SAY NURSERIES LTD",
+      "employerWebsiteUrl": "https://www.bananamoon-croydon.co.uk/",
+      "course": {
+        "larsCode": 430,
+        "title": "Early years educator (level 3)",
+        "level": 3,
+        "route": "Education and early years",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Advanced",
+      "providerName": "NORTH WALES TRAINING LTD.",
+      "ukprn": 10004716,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000028617",
+      "vacancyReference": "2000028617",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "The nursery features three spacious rooms with natural furnishings and carefully selected resources. The calming environment offers children an exclusive space to flourish and develop into confident, creative, and curious learners. Complementing this is our incredible outdoor garden giving children the chance to learn and explore the outdoor environment through active play and discovery.",
+      "trainingDescription": "<p>Early Years Educator Level 3 Apprenticeship Standard.<br>Training will be done at the location.</p>",
+      "outcomeDescription": "<p>Permanent position.</p>",
+      "fullDescription": "<ul>\r\n<li>To act as a key person to a group of children,liasiing closely and building an effective relationship with parents/carers and ensuring each chilld's needs are recognised and met.</li>\r\n<li>To work in partnership with parents/carers and other family members.</li>\r\n<li>To advise the manager of any concerns, e.g. health and well-being of children, parents or the safety of equipment, preserving confidentiality as necessary.</li>\r\n<li>To teach children, offering an appropriate level of support and stimulating play experiences.</li>\r\n<li>To ensure that children are kept safe and that you understand when to follow child protection procedures.</li>\r\n<li>To actively participate in team meetings, supervision meetings and appraisal meetings.</li>\r\n<li>To attend training courses as required and to take responsibility for personal development.</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "IT skills",
+        "Attention to detail",
+        "Organisation skills",
+        "Customer care skills",
+        "Problem solving skills",
+        "Presentation skills",
+        "Administrative skills",
+        "Number skills",
+        "Analytical skills",
+        "Logical",
+        "Team working",
+        "Creative",
+        "Initiative",
+        "Non judgemental",
+        "Patience",
+        "Physical fitness"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Desired",
+          "qualificationType": "GCSE",
+          "subject": "English",
+          "grade": "4"
+        },
+        {
+          "weighting": "Desired",
+          "qualificationType": "GCSE",
+          "subject": "Maths",
+          "grade": "4"
+        }
+      ],
+      "thingsToConsider": "Passing a Disclosure and Barring Service (DBS) check.",
+      "title": "Childcare Level 3 apprenticeship",
+      "description": "Are you passionate about giving children the best start in life?   This nursery is always on the lookout for caring, committed and enthusiastic individuals to join their team. Your role will be supporting children aged 9 months to 5 years. You will also be a key person to a small group of children, making learning fun.",
+      "numberOfPositions": 2,
+      "postedDate": "2025-11-05T10:38:41.683Z",
+      "closingDate": "2026-11-21T23:59:59Z",
+      "startDate": "2026-12-05T00:00:00Z",
+      "wage": {
+        "wageType": "ApprenticeshipMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£16,640 a year",
+        "workingWeekDescription": "Monday to Friday\r\n\r\n08.30am to 5.30pm."
+      },
+      "hoursPerWeek": 40,
+      "expectedDuration": "1 Year 6 Months",
+      "addresses": [
+        {
+          "addressLine1": "Unit 168, Lee Valley Technopark",
+          "addressLine2": "Ashley Road",
+          "addressLine3": "London",
+          "postcode": "N17 9LN",
+          "latitude": 51.59186,
+          "longitude": -0.06011
+        },
+        {
+          "addressLine1": "St Ann S Road",
+          "addressLine2": "Tottenham",
+          "addressLine3": "London",
+          "postcode": "N15 6NG",
+          "latitude": 51.57724,
+          "longitude": -0.07482
+        },
+        {
+          "addressLine1": "Great Cambridge Road",
+          "addressLine2": "Tottenham",
+          "addressLine3": "London",
+          "postcode": "N17 8JS",
+          "latitude": 51.60506,
+          "longitude": -0.07676
+        }
+      ],
+      "distance": 0,
+      "employerName": "BRIGHT GEMS NURSERY LTD",
+      "course": {
+        "larsCode": 430,
+        "title": "Early years educator (level 3)",
+        "level": 3,
+        "route": "Education and early years",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Advanced",
+      "providerName": "NORTH WALES TRAINING LTD.",
+      "ukprn": 10004716,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/1000349586",
+      "vacancyReference": "1000349586",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "<p>We opened our doors for the first time in March 2025, our newly opened setting in the beautiful village of Sonning Common cares for children from as young as 3 months to preschoolers. We are open all year round from 7.30 am till 6.00 pm.</p>",
+      "trainingDescription": "<ul>\r\n<li>You will take part in an online lesson once a month provided by Chiltern Training</li>\r\n<li>An assessor will visit your workplace every 10 weeks to carry out observations, and you will be required to upload your work as part of the assessment process</li>\r\n</ul>",
+      "outcomeDescription": "<ul>\r\n<li>Completing a Level 5 Early Years Lead Practitioner qualification opens up several career progression routes in the early years sector</li>\r\n<li>It&rsquo;s designed for people already working in nurseries or childcare settings who want to move into leadership and management roles</li>\r\n</ul>",
+      "fullDescription": "<ul>\r\n<li>Lead and model high-quality early years practice across the nursery</li>\r\n<li>Plan, implement, and evaluate learning experiences in line with the Early Years Foundation Stage (EYFS) framework</li>\r\n<li>Support children's learning, development, and wellbeing through child-centred approaches</li>\r\n<li>Observe, assess, and track children's progress, ensuring accurate records are maintained</li>\r\n<li>Identify and support children with additional needs, working with families and external professionals where required</li>\r\n<li>Act as a safeguarding lead or support safeguarding procedures to ensure children's safety and welfare</li>\r\n<li>Mentor, coach, and supervise early years practitioners and apprentices</li>\r\n<li>Lead staff meetings, training sessions, and professional development activities</li>\r\n<li>Monitor the quality of teaching and learning across the setting and implement improvements</li>\r\n<li>Build positive partnerships with parents and carers, sharing information about children's development</li>\r\n<li>Promote inclusive practice and ensure equal opportunities for all children</li>\r\n<li>Manage resources, learning environments, and activities to support effective learning</li>\r\n<li>Ensure compliance with nursery policies, legal requirements, and regulatory standards</li>\r\n<li>Contribute to nursery self-evaluation, action planning, and preparation for inspections by organizations such as Ofsted</li>\r\n<li>Lead initiatives that enhance children's outcomes, staff performance, and overall nursery quality</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "IT skills",
+        "Attention to detail",
+        "Organisation skills",
+        "Customer care skills",
+        "Problem solving skills",
+        "Presentation skills",
+        "Administrative skills",
+        "Number skills",
+        "Analytical skills",
+        "Logical",
+        "Team working",
+        "Creative",
+        "Initiative",
+        "Non judgemental",
+        "Patience",
+        "Physical fitness"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Essential",
+          "qualificationType": "GCSE",
+          "subject": "English",
+          "grade": "4"
+        },
+        {
+          "weighting": "Essential",
+          "qualificationType": "Level 3 Early Years",
+          "subject": "Early Years",
+          "grade": "Pass"
+        }
+      ],
+      "thingsToConsider": "<ul>\r\n<li>You will need to pass a Disclosure and Barring Service (DBS) check</li>\r\n</ul>",
+      "title": "Level 5 Early Years Lead Practitioner Apprenticeship",
+      "description": "<p>You will be employed at Little Petals Day Nursery and will attend monthly online training sessions provided by Chiltern Training Ltd.</p>",
+      "numberOfPositions": 1,
+      "postedDate": "2026-06-11T09:04:23.167Z",
+      "closingDate": "2026-12-01T23:59:59Z",
+      "startDate": "2026-12-10T00:00:00Z",
+      "wage": {
+        "wageType": "CompetitiveSalary",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "Competitive",
+        "workingWeekDescription": "You will work Monday - Friday, there is an option to work full time or part time. Shifts to be confirmed."
+      },
+      "hoursPerWeek": 40,
+      "expectedDuration": "1 Year 6 Months",
+      "addresses": [
+        {
+          "addressLine1": "23C WOOD LANE",
+          "addressLine2": "SONNING COMMON",
+          "addressLine3": "READING",
+          "postcode": "RG4 9SJ",
+          "latitude": 51.51782,
+          "longitude": -0.97868
+        }
+      ],
+      "distance": 0,
+      "employerName": "Little Petals Day Nursery",
+      "employerWebsiteUrl": "https://www.littlepetalsdaynursery.com/",
+      "course": {
+        "larsCode": 655,
+        "title": "Early years lead practitioner (level 5)",
+        "level": 5,
+        "route": "Education and early years",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Higher",
+      "providerName": "CHILTERN TRAINING LIMITED",
+      "ukprn": 10001394,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000036533",
+      "vacancyReference": "2000036533",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "Parkinson Real Estate is a commercial property consultancy who offer in depth knowledge of local market conditions primarily across the Northwest but also UK wide. We act on behalf of a variety of clients over a large geographical area, with results driven instructions fulfilled throughout the country.",
+      "trainingDescription": "<ul>\r\n<li>Real Estate Development and Management (Degree Apprenticeship)</li>\r\n<li>One day per week</li>\r\n<li>Five year course</li>\r\n<li>University of Salford</li>\r\n<li>This apprenticeship is subject to satisfactory completion of 6-9 months' trainee programme before course enrolment. Therefore, degree course enrolment is not guaranteed</li>\r\n</ul>",
+      "outcomeDescription": "<ul>\r\n<li>Enrol on the RICS Assessment of Professional Competence</li>\r\n<li>Qualify as a Chartered Surveyor</li>\r\n</ul>",
+      "fullDescription": "<ul>\r\n<li>One day per week university study - after successful completion of 6-9 month probationary period</li>\r\n<li>Assisting measured surveys</li>\r\n<li>Assisting property and land inspections</li>\r\n<li>Real Estate data research and analysis</li>\r\n<li>Formal report drafting, review, engrossment and issue</li>\r\n<li>Property management</li>\r\n<li>Development appraisals, viability and feasibility studies</li>\r\n<li>Business development and networking</li>\r\n<li>Developing into an unsupervised fee earner</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "IT skills",
+        "Attention to detail",
+        "Organisation skills",
+        "Customer care skills",
+        "Problem solving skills",
+        "Presentation skills",
+        "Administrative skills",
+        "Number skills",
+        "Analytical skills",
+        "Logical",
+        "Team working",
+        "Initiative",
+        "Knowledge of APC process",
+        "Knowledge of degree course",
+        "Knowledge of company",
+        "Live within 25 miles of office",
+        "Full driving licence",
+        "Own car essential"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Essential",
+          "qualificationType": "GCSE",
+          "subject": "English",
+          "grade": "4"
+        },
+        {
+          "weighting": "Essential",
+          "qualificationType": "GCSE",
+          "subject": "Maths",
+          "grade": "4"
+        },
+        {
+          "weighting": "Essential",
+          "qualificationType": "A Level",
+          "subject": "or equivalent",
+          "grade": "C"
+        }
+      ],
+      "title": "Real Estate Degree Apprentice Surveyor",
+      "description": "<p>The proactive &amp; self-driven candidate will work across several disciplines to include Property &amp; Asset Management, Agency, Landlord &amp; Tenant, Investment, Valuation, and Professional Services. Varied workload, good work-life balance &amp; ability to progress within the firm guaranteed.</p>",
+      "numberOfPositions": 1,
+      "postedDate": "2026-06-25T14:10:34.823Z",
+      "closingDate": "2026-10-01T23:59:59Z",
+      "startDate": "2027-01-01T00:00:00Z",
+      "wage": {
+        "wageType": "NationalMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£15,808 to £25,114.96 a year",
+        "workingWeekDescription": "Monday to Thursday, 9.00am to 5.30pm.\r\n\r\nFriday, 9.00am to 5.00pm."
+      },
+      "hoursPerWeek": 38,
+      "expectedDuration": "5 Years",
+      "addresses": [
+        {
+          "addressLine1": "10 BEECHAM COURT",
+          "addressLine2": "WIGAN",
+          "postcode": "WN3 6PR",
+          "latitude": 53.52894,
+          "longitude": -2.65856
+        },
+        {
+          "addressLine1": "4 Winckley Court",
+          "addressLine2": "Preston",
+          "postcode": "PR1 8BU",
+          "latitude": 53.75756,
+          "longitude": -2.70297
+        }
+      ],
+      "distance": 0,
+      "employerName": "Parkinson Real Estate",
+      "employerWebsiteUrl": "parkinsonre.com",
+      "course": {
+        "larsCode": 50,
+        "title": "Chartered surveyor (degree) (level 6)",
+        "level": 6,
+        "route": "Construction and the built environment",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Degree",
+      "providerName": "UNIVERSITY OF SALFORD, THE",
+      "ukprn": 10007156,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000039298",
+      "vacancyReference": "2000039298",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "“Shropshire’s Most Reputable Plumbing, Heating & Cooling Engineers With The Fastest Response Time\"\r\n\r\nWe cover All Aspects Of Plumbing, Heating, Cooling, Boilers, Gas, Oil,  LPG, Heat Pumps & Air Conditioning From A Dripping Tap To a Full Heating System Installation\r\n\r\nAll of our gas boiler installations include a 10 year parts & labour guarantee\r\n\r\nAll of our employees start as an apprentice and are trained one on one with the business owner George Whitfield.",
+      "trainingDescription": "<ul>\r\n<li>1 day per week at college undertaking a Level 3 Plumbing &amp; Heating qualification</li>\r\n<li>Within 2 years you will be a fully qualified plumber</li>\r\n<li>Progression once qualified would be to continue gaining new qualifications including Gas, LPG &amp; Oil</li>\r\n</ul>",
+      "outcomeDescription": "<p>If you work hard and dedicate yourself 100% to completing your apprenticeship, we will offer you a full-time employed job, company van &amp; the opportunity to possibly train your own apprentice.</p>\r\n<p>Typical salary for an employee with 5 years&rsquo; experience at Whitfield's would earn &pound;40,000 - &pound;50,000 per year.</p>",
+      "fullDescription": "<p>Please apply directly on our website www.WhitfieldPlumbing.co.uk<br><br>We are open to all ages so if you think you have what it takes to become part of the team at Shropshire's leading businesses then apply today.</p>\r\n<ul>\r\n<li>4 days per week hands-on experience working within customers&rsquo; homes learning: Plumbing, Heating, Gas, Oil &amp; LPG</li>\r\n<li>General plumbing repairs &amp; maintenance</li>\r\n<li>Central heating servicing &amp; installation</li>\r\n<li>Boiler servicing &amp; installation</li>\r\n<li>Bathrooms &amp; kitchen installation</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "Attention to detail",
+        "Customer care skills",
+        "Problem solving skills",
+        "Number skills",
+        "Creative",
+        "Full UK Driving License"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Essential",
+          "qualificationType": "GCSE",
+          "subject": "English",
+          "grade": "4 or above"
+        },
+        {
+          "weighting": "Essential",
+          "qualificationType": "GCSE",
+          "subject": "Maths",
+          "grade": "4 or above"
+        },
+        {
+          "weighting": "Essential",
+          "qualificationType": "GCSE",
+          "subject": "Science",
+          "grade": "4 or above"
+        }
+      ],
+      "title": "Apprentice Plumber Heating Gas Plumbing Apprenticeship",
+      "description": "<p>Please apply directly on our website www.WhitfieldPlumbing.co.uk Whether you are brand new to the industry or have some experience, we can provide all the training required to transform you into a well-respected and skilled plumbing &amp; heating engineer. Work includes gas/oil boiler installation, plumbing, central heating servicing &amp; domestic AC.</p>",
+      "numberOfPositions": 1,
+      "postedDate": "2026-02-02T10:32:46.23Z",
+      "closingDate": "2026-11-01T23:59:59Z",
+      "startDate": "2026-11-02T00:00:00Z",
+      "wage": {
+        "wageType": "ApprenticeshipMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£18,720 a year",
+        "workingWeekDescription": "Monday to Friday, between 8.00am and 5.00pm."
+      },
+      "hoursPerWeek": 45,
+      "expectedDuration": "2 Years",
+      "addresses": [
+        {
+          "addressLine1": "211 MOUNT PLEASANT ROAD",
+          "addressLine2": "SHREWSBURY",
+          "postcode": "SY1 3JA",
+          "latitude": 52.7352,
+          "longitude": -2.74238
+        }
+      ],
+      "applicationUrl": "www.whitfieldplumbing.co.uk/apprenticeships",
+      "distance": 0,
+      "employerName": "Whitfield Plumbing & Heating",
+      "employerWebsiteUrl": "www.WhitfieldPlumbing.co.uk",
+      "course": {
+        "larsCode": 225,
+        "title": "Plumbing and domestic heating technician (level 3)",
+        "level": 3,
+        "route": "Construction and the built environment",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Advanced",
+      "providerName": "SOUTH STAFFORDSHIRE COLLEGE",
+      "ukprn": 10023526,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000012036",
+      "vacancyReference": "2000012036",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "<p>Rainbow Day Nursery &amp; Pre-School provides an exceptional environment and a wonderful quality of care and development for babies and young children from three months up to five years of age.</p>",
+      "trainingDescription": "<ul>\r\n<li>Early Years Educator Level 3 Apprenticeship Standard</li>\r\n<li>You will be working at the Nursery 4 days a week and will attend Nescot College (Epsom) for in person training every other Friday for the duration of the apprenticeship</li>\r\n</ul>",
+      "outcomeDescription": "<p>Typical jobs roles following Level 3 Early Years include:</p>\r\n<ul>\r\n<li>Playworker</li>\r\n<li>Childminder</li>\r\n<li>Nursery supervisor</li>\r\n<li>Teaching assistant</li>\r\n<li>Educational support assistant</li>\r\n</ul>",
+      "fullDescription": "<ul>\r\n<li>Early Years apprentices support child development by planning, delivering, and observing play-based activities</li>\r\n<li>Aiding with personal care (feeding, nappy changing), ensuring safety through risk assessments, and maintaining hygienic environments</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "Attention to detail",
+        "Organisation skills",
+        "Customer care skills",
+        "Team working",
+        "Creative",
+        "Initiative",
+        "Non judgemental",
+        "Patience"
+      ],
+      "qualifications": [],
+      "title": "Level 3 Early Years Educator Apprentice",
+      "description": "<p>This is a 14 month Apprenticeship at Rainbow Nursery based in Chertsey. The next Level 3 Early Years course at Nescot starts on June 2026 - but the employer may ask you to start sooner.</p>",
+      "numberOfPositions": 2,
+      "postedDate": "2026-06-09T10:13:30.537Z",
+      "closingDate": "2026-10-01T23:59:59Z",
+      "startDate": "2026-10-02T00:00:00Z",
+      "wage": {
+        "wageType": "CompetitiveSalary",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "Competitive",
+        "workingWeekDescription": "To be discussed with the employer."
+      },
+      "hoursPerWeek": 32,
+      "expectedDuration": "1 Year 2 Months",
+      "addresses": [
+        {
+          "addressLine1": "Almners Priory",
+          "addressLine2": "Almners Road, Lyne",
+          "addressLine3": "Chertsey",
+          "postcode": "KT16 0BH",
+          "latitude": 51.38969,
+          "longitude": -0.53062
+        }
+      ],
+      "distance": 0,
+      "employerName": "ALMNERS (CHILDCARE) LIMITED",
+      "employerWebsiteUrl": "https://www.rainbownursery.com/",
+      "course": {
+        "larsCode": 430,
+        "title": "Early years educator (level 3)",
+        "level": 3,
+        "route": "Education and early years",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Advanced",
+      "providerName": "NORTH EAST SURREY COLLEGE OF TECHNOLOGY (NESCOT)",
+      "ukprn": 10004686,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000035778",
+      "vacancyReference": "2000035778",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "​Resilient Healthcare Limited is a dedicated provider of personalized home care services, committed to enhancing the quality of life for individuals.\r\n\r\nOur mission is to deliver compassionate and tailored care that empowers our clients to live independently and comfortably in their own homes.",
+      "trainingDescription": "<p>Paragon Skills is an award-winning, Ofsted-rated &lsquo;Good&rsquo;, national apprenticeship provider inspiring over 10,000 learners annually and working with over 3000 businesses to deliver apprenticeships in a high-quality, consistent way. Our dedicated focus on the Care and Education sectors means we are deeply rooted within these sectors and have in-depth knowledge and understanding of what is required from a training perspective. Upon completion of this 12-month Apprenticeship, you will have obtained your Adult Care Worker Apprenticeship Level 2.</p>",
+      "outcomeDescription": "<p>There is a possibility of being offered a full-time role after successful completion of the apprenticeship.</p>",
+      "fullDescription": "<p>The Domiciliary Care Worker is responsible for delivering high-quality, person-centred care and support to service users in their own homes. The role ensures that clients maintain independence, dignity, and choice while receiving safe and effective care in line with individual care plans and CQC standards.</p>\r\n<p>Key Responsibilities:</p>\r\n<ul>\r\n<li>Provide personal care including washing, dressing, toileting, and mobility support in line with individual care plans</li>\r\n<li>Support clients with medication administration in accordance with training and company policy</li>\r\n<li>Assist with meal preparation, nutrition, and hydration</li>\r\n<li>Support clients with domestic tasks such as cleaning, laundry, and shopping</li>\r\n<li>Provide companionship and emotional support to reduce loneliness and isolation</li>\r\n<li>Follow safeguarding policies and immediately report any concerns</li>\r\n<li>Maintain accurate records, including daily logs, medication charts, and incident reports</li>\r\n<li>Work within the requirements of the Health and Social Care Act 2008 (Regulated Activities) and CQC standards</li>\r\n<li>Always protect the confidentiality and dignity of service users.</li>\r\n<li>Build and maintain positive relationships with service users, their families, and professionals</li>\r\n<li>Communicate clearly and respectfully with service users, adapting to individual needs</li>\r\n<li>Report changes in service users&rsquo; health, wellbeing, or circumstances to supervisors promptly</li>\r\n<li>Follow health and safety procedures, including infection prevention and control</li>\r\n<li>Use equipment safely (e.g. hoists, wheelchairs) in line with training</li>\r\n<li>Report hazards, accidents, or near misses immediately</li>\r\n<li>Complete mandatory training (e.g. moving &amp; handling, safeguarding, first aid, medication)</li>\r\n<li>Work towards achieving and maintaining the Care Certificate (if not already obtained)</li>\r\n<li>Participate in ongoing professional development and supervisions</li>\r\n</ul>",
+      "skills": ["Initative", "Non judgemental", "Patience,"],
+      "qualifications": [
+        {
+          "weighting": "Essential",
+          "subject": "Drivers Licence",
+          "grade": ""
+        },
+        {
+          "weighting": "Desired",
+          "subject": "Health and Social Care",
+          "grade": ""
+        }
+      ],
+      "thingsToConsider": "<p>The closing date guidance, if a successful candidate is found before the advertised dates, the advert will close early.</p>",
+      "title": "Health and Social Care Apprenticeship (Domiciliary) - Barrow-in-Furness",
+      "description": "<p>Resilient Healthcare are looking for an Apprentice Support Worker. You will be studying toward your Level 2 Adult Care Apprenticeship. No experience required.</p>",
+      "numberOfPositions": 1,
+      "postedDate": "2026-03-25T17:30:29.05Z",
+      "closingDate": "2026-10-29T23:59:59Z",
+      "startDate": "2026-11-06T00:00:00Z",
+      "wage": {
+        "wageType": "Custom",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£19,500 a year",
+        "workingWeekDescription": "Flexible, according to rota (including evenings, weekends, and bank holidays), exact working days and hours TBC"
+      },
+      "hoursPerWeek": 30,
+      "expectedDuration": "1 Year",
+      "addresses": [
+        {
+          "addressLine1": "Howard StreetBarrow-in-Furness",
+          "postcode": "LA14 1NB",
+          "latitude": 54.11542,
+          "longitude": -3.23268
+        }
+      ],
+      "applicationUrl": "https://paragonskills.co.uk/apprenticeship-jobs/a2hdP000000MK3JQAW/?ext_job_id=a2hdP000000MK3JQAW&apply=true",
+      "distance": 0,
+      "employerName": "Resilient Healthcare Ltd - Barrow-in-Furness",
+      "employerWebsiteUrl": "",
+      "course": {
+        "larsCode": 119,
+        "title": "Adult care worker (level 2)",
+        "level": 2,
+        "route": "Care services",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Intermediate",
+      "providerName": "PARAGON EDUCATION & SKILLS LIMITED",
+      "ukprn": 10004977,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000023340",
+      "vacancyReference": "2000023340",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "<p>At Rainbow Friends Childcare, we are more than just a nursery - we are a vibrant, loving community dedicated to the growth and development of children aged 5 and under. Our nursery is a place where laughter, curiosity, and creativity thrive. Nestled in the heart of Barking and Dagenham, our warm and welcoming environment is designed to inspire children to learn, play, and explore together.</p>",
+      "outcomeDescription": "<ul>\r\n<li>After completing the apprenticeship, there may be opportunities to progress into a permanent Early Years Practitioner role, continue onto a higher-level childcare qualification, or develop a career in nursery management, teaching assistance, or early years education</li>\r\n</ul>",
+      "fullDescription": "<ul>\r\n<li>Support children&rsquo;s learning and development through play and daily activities, help create a safe and caring environment</li>\r\n<li>Assist with meal times and routines, prepare learning resources, observe children&rsquo;s progress, and work alongside experienced staff while completing an early years qualification</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "IT skills",
+        "Attention to detail",
+        "Organisation skills",
+        "Customer care skills",
+        "Problem solving skills",
+        "Number skills",
+        "Logical",
+        "Team working",
+        "Creative",
+        "Initiative",
+        "Non judgemental",
+        "Patience"
+      ],
+      "qualifications": [],
+      "thingsToConsider": "<ul>\r\n<li>Passing a Disclosure and Barring Service (DBS) check</li>\r\n</ul>",
+      "title": "early years apprenticeship",
+      "description": "<p>Work alongside experienced staff to support children&rsquo;s learning, play, and development in a safe environment while gaining a childcare qualification. Apply to earn while you learn, build valuable skills, gain hands-on experience, and start a rewarding career in early years education.</p>",
+      "numberOfPositions": 3,
+      "postedDate": "2026-05-15T09:24:37.85Z",
+      "closingDate": "2026-12-20T23:59:59Z",
+      "startDate": "2026-12-22T00:00:00Z",
+      "wage": {
+        "wageType": "ApprenticeshipMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£10,400 a year",
+        "workingWeekDescription": "Monday to Friday between the ours 8.00am to 6.00pm, shifts,"
+      },
+      "hoursPerWeek": 25,
+      "expectedDuration": "1 Year 6 Months",
+      "addresses": [
+        {
+          "addressLine1": "5 Drydock Square",
+          "addressLine3": "Barking",
+          "postcode": "IG11 7SQ",
+          "latitude": 51.53328,
+          "longitude": 0.07248
+        }
+      ],
+      "distance": 0,
+      "employerName": "Rainbow Friends Childcare",
+      "course": {
+        "larsCode": 430,
+        "title": "Early years educator (level 3)",
+        "level": 3,
+        "route": "Education and early years",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Advanced",
+      "providerName": "THELIGHTBULB LTD",
+      "ukprn": 10003919,
+      "isDisabilityConfident": true,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000031877",
+      "vacancyReference": "2000031877",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "<p>We share the desire of every practitioner that every child, regardless of their background, should benefit from an excellent education.<br>In collaboration with our&nbsp;Delivery Partner Network, education professionals and the Department for Education,&nbsp;we design, develop and deliver high-quality CPD and qualifications&nbsp;to aspiring teachers, practising teachers, school leaders, early years practitioners, teaching assistants and SENCOs.</p>\r\n<p>Be the best you can be and transform the lives of children and young people with our extensive suite of fully funded programmes and apprenticeships.</p>",
+      "trainingDescription": "<p>What You&rsquo;ll Gain:</p>\r\n<ul>\r\n<li>A Level 5 Early Years Lead Educator qualification</li>\r\n<li>Valuable hands-on experience in a nursery environment</li>\r\n<li>Support and mentoring from experienced early years professionals</li>\r\n<li>Online learning delivered by Best Practice Network</li>\r\n<li>The opportunity to build a long-term career in early years education, with potential for a permanent role</li>\r\n</ul>",
+      "outcomeDescription": "<ul>\r\n<li>Potential to progression to manager role</li>\r\n</ul>",
+      "fullDescription": "<ul>\r\n<li>Support children's learning, development, and wellbeing<br>Lead high-quality practice within the setting</li>\r\n<li>Support and mentor colleagues to deliver excellent outcomes for children</li>\r\n<li>Plan and implement engaging learning experiences</li>\r\n<li>Build positive relationships with children, families, and professionals</li>\r\n<li>Contribute to creating a safe, inclusive, and nurturing environment</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "IT skills",
+        "Attention to detail",
+        "Organisation skills",
+        "Problem solving skills",
+        "Logical",
+        "Team working",
+        "Creative",
+        "Initiative",
+        "Non judgemental",
+        "Patience",
+        "Physical fitness"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Essential",
+          "qualificationType": "GCSE",
+          "subject": "English",
+          "grade": "4"
+        },
+        {
+          "weighting": "Essential",
+          "qualificationType": "Level 3 Early Years Educator",
+          "subject": "Level 3 Early Years Educator",
+          "grade": "Pass"
+        }
+      ],
+      "thingsToConsider": "<ul>\r\n<li>DBS</li>\r\n</ul>",
+      "title": "Early Years Lead Practitioner Level 5 Apprenticeship",
+      "description": "<p>Ready to take the next step in your early years career? This Level 5 Early Years Lead Practitioner apprenticeship is designed for experienced practitioners looking to develop their leadership skills while continuing to support children's learning and development.</p>",
+      "numberOfPositions": 1,
+      "postedDate": "2026-06-30T09:10:01.58Z",
+      "closingDate": "2026-12-01T23:59:59Z",
+      "startDate": "2026-12-02T00:00:00Z",
+      "wage": {
+        "wageType": "ApprenticeshipMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£16,640 a year",
+        "workingWeekDescription": "Various shift patterns. \r\n\r\nGenerally 4 day working week, working hours within Monday to Friday 8.00am to 6.00pm."
+      },
+      "hoursPerWeek": 40,
+      "expectedDuration": "1 Year 6 Months",
+      "addresses": [],
+      "employerName": "BEST PRACTICE NETWORK LIMITED",
+      "course": {
+        "larsCode": 430,
+        "title": "Early years educator (level 3)",
+        "level": 3,
+        "route": "Education and early years",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Advanced",
+      "providerName": "BEST PRACTICE NETWORK LIMITED",
+      "ukprn": 10019464,
+      "isDisabilityConfident": true,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000039857",
+      "vacancyReference": "2000039857",
+      "isNationalVacancy": true,
+      "isNationalVacancyDetails": "<ul>\r\n<li>Become part or our talent pool and we will match you with employers to start your apprenticeship.</li>\r\n<li>Personalised support from the Apprenticeship Recruitment Team</li>\r\n<li>There's no guarantee of a placement, but the team will try their best to match you</li>\r\n</ul>"
+    },
+    {
+      "employerDescription": "<p>As one of the world's largest quick service restaurant brands, Subway serves freshly made-to-order sandwiches, wraps, salads and bowls to millions of guests, across more than 100 countries in nearly 37,000 restaurants every day. Subway restaurants are owned and operated by Subway franchisees &ndash; a network that includes thousands of dedicated entrepreneurs and small business owners &ndash; who are committed to delivering the best guest experience possible in their local communities.</p>",
+      "additionalTrainingDescription": "<ul>\r\n<li>You will work towards a Level 2 Catering &amp; Hospitality Apprenticeship, delivered through a combination of workplace learning and structured training sessions</li>\r\n<li>Over 8 Months all on-site training where you will gain a Recognised Qualification</li>\r\n</ul>\r\n<p>&nbsp;This includes:&nbsp;</p>\r\n<ul>\r\n<li>Food safety</li>\r\n<li>Customer service</li>\r\n<li>Teamwork&nbsp;</li>\r\n<li>Health &amp; safety&nbsp;</li>\r\n<li>Hospitality industry knowledge&nbsp;</li>\r\n</ul>",
+      "outcomeDescription": "<ul>\r\n<li>Progression opportunities within the business may be available upon completion of the apprenticeship</li>\r\n</ul>",
+      "fullDescription": "<p>As a&nbsp;Catering &amp; Hospitality Apprentice, you will work within a busy Subway store, gaining hands‑on experience in food preparation, customer service, and day‑to‑day store operations. This Level 2 apprenticeship provides&nbsp;a strong foundation&nbsp;for a future career in hospitality, retail food service, or management.&nbsp;</p>\r\n<p>You will learn how to deliver excellent customer service,&nbsp;maintain&nbsp;food safety standards, and work effectively as part of a fast‑paced team.&nbsp;</p>\r\n<p>Key Responsibilities&nbsp;</p>\r\n<ul>\r\n<li>Food preparation - preparing fresh ingredients, assembling sandwiches, and following Subway&rsquo;s food safety standards</li>\r\n<li>Customer service - greeting customers, taking orders, handling payments, and ensuring a positive experience</li>\r\n<li>Store hygiene - maintaining cleanliness of the store, equipment, and food preparation areas</li>\r\n<li>Stock management - assisting with stock rotation, deliveries, and storage</li>\r\n<li>Teamwork - supporting colleagues to ensure smooth daily operations&nbsp;</li>\r\n<li>Compliance - following all health &amp; safety, food hygiene, and brand standards</li>\r\n</ul>",
+      "skills": [],
+      "qualifications": [],
+      "companyBenefitsInformation": "<ul>\r\n<li>Free meal provided when working 6 hours or more</li>\r\n<li>Paid annual leave (112 hours per year)</li>\r\n<li>Nationally recognised Level 2 Apprenticeship qualification</li>\r\n<li>Hands‑on experience in a global food brand&nbsp;</li>\r\n</ul>",
+      "title": "Apprentice Sandwich Artist",
+      "description": "<p>Northern Skills are recruiting on behalf of Subway for a friendly, passionate, team player to join their busy team as a Sandwich Artist. The successful learner will gain a level 2 Foundation Level Apprenticeship in Catering and Hospitality.</p>",
+      "numberOfPositions": 1,
+      "postedDate": "2026-08-25T14:26:53.343Z",
+      "closingDate": "2026-10-25T23:59:59Z",
+      "startDate": "2026-10-30T00:00:00Z",
+      "wage": {
+        "wageType": "ApprenticeshipMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£12,480 a year",
+        "workingWeekDescription": "The store is open Monday to Sunday. Hours and days will be confirmed at interview, but typical shift patterns include: \r\n7.30am- 3.00pm and 11.00am  7.00pm. A flexible approach to working hours is essential."
+      },
+      "hoursPerWeek": 30,
+      "expectedDuration": "8 Months",
+      "addresses": [
+        {
+          "addressLine1": "31-33 WELLINGTON SQUARE",
+          "addressLine2": "STOCKTON ON TEES",
+          "postcode": "TS18 1RG",
+          "latitude": 54.56457,
+          "longitude": -1.3139
+        }
+      ],
+      "distance": 0,
+      "employerName": "Subway (KATS (STOCKTON) LTD)",
+      "employerWebsiteUrl": "https://restaurants.subway.com/united-kingdom/en/stockton-on-tees/64-high-street-castlegate-shopping",
+      "course": {
+        "larsCode": 831,
+        "title": "Catering and hospitality foundation apprenticeship (level 2)",
+        "level": 2,
+        "route": "Catering and hospitality",
+        "type": "Foundation"
+      },
+      "apprenticeshipLevel": "Intermediate",
+      "providerName": "MIDDLESBROUGH COLLEGE",
+      "ukprn": 10004344,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000050062",
+      "vacancyReference": "2000050062",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "employerDescription": "With years of experience amongst the team at AFE Accountants Limited, we have built trustworthy and consistent relationships with our clients. We pride ourselves on providing a bespoke service, understanding that everybody's requirements are unique. Therefore, we take the time to identify precisely what you are looking for in order to establish how we can help. We take pride in how the practice has expanded rapidly through recommendation and word of mouth.",
+      "trainingDescription": "<ul>\r\n<li>Level 3 Assistant Accountant</li>\r\n<li>Level 2 Bookkeeping</li>\r\n</ul>",
+      "outcomeDescription": "<p>The candidate can choose to either progress into an AAT Level 4 or full-time employment.</p>",
+      "fullDescription": "<ul>\r\n<li>Data Entry: Accurately inputting financial data into accounting systems, ensuring all information is up to date and error-free</li>\r\n<li>Bookkeeping: Recording day-to-day financial transactions, such as invoices, payments, and receipts, to help keep accurate and organised accounts</li>\r\n<li>Ledger Maintenance: Maintaining and updating sales and purchase ledgers to ensure all records are current and complete</li>\r\n<li>Reconciliations: Assisting with bank reconciliations and other account reconciliations to help identify and resolve any discrepancies</li>\r\n<li>Financial Document Preparation: Supporting the preparation of invoices, statements, reports, and other financial documents for clients and internal use</li>\r\n<li>Administrative Support: Providing general administrative support to the finance team, including organising documents, scheduling meetings, and helping with other office tasks as needed</li>\r\n</ul>",
+      "skills": [
+        "Communication skills",
+        "IT skills",
+        "Attention to detail",
+        "Organisation skills",
+        "Team working",
+        "Initiative",
+        "Non judgemental"
+      ],
+      "qualifications": [
+        {
+          "weighting": "Essential",
+          "qualificationType": "GCSE",
+          "subject": "Maths",
+          "grade": "4"
+        },
+        {
+          "weighting": "Desired",
+          "qualificationType": "GCSE",
+          "subject": "English",
+          "grade": "4"
+        }
+      ],
+      "thingsToConsider": "<p>Note: If you do not have the desirable qualifications or work experience, First Rung can assist you with training and work experience opportunities. Please do not contact the employer directly; all enquiries must go through First Rung.</p>",
+      "title": "Accounts Assistant Apprentice",
+      "description": "<p>Kickstart your career in finance with our dynamic accountancy apprenticeship! You&rsquo;ll gain hands-on experience with real clients while studying towards a recognised qualification, all in a supportive team that&rsquo;s invested in your growth. Develop practical skills, earn as you learn, and open the door to exciting future opportunities.</p>",
+      "numberOfPositions": 1,
+      "postedDate": "2026-01-16T10:59:24.287Z",
+      "closingDate": "2026-11-19T23:59:59Z",
+      "startDate": "2026-11-30T00:00:00Z",
+      "wage": {
+        "wageType": "ApprenticeshipMinimum",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£14,560 a year",
+        "workingWeekDescription": "Monday to Friday, 9 am to 5 pm."
+      },
+      "hoursPerWeek": 35,
+      "expectedDuration": "1 Year 6 Months",
+      "addresses": [
+        {
+          "addressLine1": "19 WILLOW ROAD",
+          "addressLine2": "ENFIELD",
+          "postcode": "EN1 3NF",
+          "latitude": 51.66348,
+          "longitude": -0.06898
+        }
+      ],
+      "distance": 0,
+      "employerName": "AFE ACCOUNTANTS LIMITED",
+      "employerWebsiteUrl": "https://www.afe-accountants.co.uk/",
+      "course": {
+        "larsCode": 133,
+        "title": "Assistant accountant (level 3)",
+        "level": 3,
+        "route": "Legal, finance and accounting",
+        "type": "Standard"
+      },
+      "apprenticeshipLevel": "Advanced",
+      "providerName": "FIRST RUNG LIMITED",
+      "ukprn": 10002483,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/2000009144",
+      "vacancyReference": "2000009144",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "skills": [],
+      "qualifications": [],
+      "title": "Apprentice Administrator",
+      "description": "An exciting opportunity has arisen for an apprentice position within the Trust Headquarters Executive Administration Team. We are looking for an enthu...",
+      "numberOfPositions": 0,
+      "postedDate": "2026-09-08T11:33:23.197Z",
+      "closingDate": "2026-10-04T23:59:59Z",
+      "startDate": "0001-01-01T00:00:00Z",
+      "wage": {
+        "wageType": "Custom",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£15600.00"
+      },
+      "hoursPerWeek": 0,
+      "expectedDuration": "",
+      "addresses": [
+        {
+          "addressLine4": "Lincoln",
+          "postcode": "LN1 1FS",
+          "latitude": 53.24423,
+          "longitude": -0.55821
+        }
+      ],
+      "applicationUrl": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9274-26-0349",
+      "distance": 0,
+      "employerName": "Lincolnshire Partnership NHS Foundation Trust",
+      "course": {
+        "larsCode": 0,
+        "level": 0
+      },
+      "ukprn": 0,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/C9274-26-0349",
+      "vacancyReference": "C9274-26-0349",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "skills": [],
+      "qualifications": [],
+      "title": "Executive Support Apprentice",
+      "description": "",
+      "numberOfPositions": 0,
+      "postedDate": "2026-09-16T12:19:03Z",
+      "closingDate": "2026-10-12T22:54:59Z",
+      "startDate": "0001-01-01T00:00:00Z",
+      "wage": {
+        "wageType": "Custom",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "19514.00 - 19514.00"
+      },
+      "hoursPerWeek": 0,
+      "expectedDuration": "",
+      "addresses": [
+        {
+          "addressLine2": "STAFFORD STREET",
+          "addressLine3": "SWINDON",
+          "postcode": "SN1 3PH",
+          "latitude": 51.55595,
+          "longitude": -1.78482
+        }
+      ],
+      "applicationUrl": "https://www.civilservicejobs.service.gov.uk/csr/viewjob.cgi?jcode=2002080",
+      "distance": 0,
+      "employerName": "UK Research and Innovation",
+      "course": {
+        "larsCode": 0,
+        "level": 0
+      },
+      "ukprn": 0,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/467350",
+      "vacancyReference": "467350",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    },
+    {
+      "skills": [],
+      "qualifications": [],
+      "title": "HR Apprentice",
+      "description": "As an HR Apprentice, you will work closely with the HR Director, gaining experience and guidance as you build your career in Human Resources. This app...",
+      "numberOfPositions": 0,
+      "postedDate": "2026-09-25T11:08:05.274Z",
+      "closingDate": "2026-10-04T23:59:59Z",
+      "startDate": "0001-01-01T00:00:00Z",
+      "wage": {
+        "wageType": "Custom",
+        "wageUnit": "Annually",
+        "wageAdditionalInformation": "£9.00"
+      },
+      "hoursPerWeek": 0,
+      "expectedDuration": "",
+      "addresses": [
+        {
+          "addressLine4": "Bewdley",
+          "postcode": "DY12 2EF",
+          "latitude": 52.37721,
+          "longitude": -2.31637
+        }
+      ],
+      "applicationUrl": "https://beta.jobs.nhs.uk/candidate/jobadvert/A3309-26-0049",
+      "distance": 0,
+      "employerName": "Wyre Forest Health Partnership",
+      "course": {
+        "larsCode": 0,
+        "level": 0
+      },
+      "ukprn": 0,
+      "isDisabilityConfident": false,
+      "vacancyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/reference/A3309-26-0049",
+      "vacancyReference": "A3309-26-0049",
+      "isNationalVacancy": false,
+      "isNationalVacancyDetails": ""
+    }
+  ]
+}

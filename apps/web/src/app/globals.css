@@ -1,0 +1,339 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens. Every colour pair used for text or UI is checked against WCAG 2.2 AA by
+ * src/design/contrast.test.ts, so a palette change that breaks accessibility fails the build.
+ *
+ * Themes: follows the OS (prefers-color-scheme) unless the visitor picks one, which sets
+ * data-theme on <html> (see ThemeToggle). Both themes are first-class.
+ */
+:root {
+  color-scheme: light;
+
+  --canvas: #fbf9f4;
+  --surface: #ffffff;
+  --surface-2: #f3efe6;
+  --ink: #101a33;
+  --ink-2: #46506a;
+  --line: #e3ded3;
+  --field: #77715f; /* borders of inputs and other controls: 3:1+ against the canvas */
+
+  --primary: #1d4ed8;
+  --primary-hover: #1e3fae;
+  --primary-ink: #ffffff;
+  --primary-tint: #e6edff;
+  --accent: #e11d48; /* the "strike" in the logo: decoration only, never text */
+  --accent-ink: #9f1239;
+  --focus: #1d4ed8;
+
+  --employment: #1d4ed8;
+  --employment-tint: #e6edff;
+  --education: #6d28d9;
+  --education-tint: #f0e8ff;
+  --training: #92400e;
+  --training-tint: #fff0d6;
+  --support: #115e59;
+  --support-tint: #dcf3ee;
+
+  --success: #166534;
+  --success-tint: #e0f5e6;
+  --warning: #92400e;
+  --warning-tint: #fff0d6;
+  --danger: #b91c1c;
+  --danger-tint: #fde8e8;
+
+  --shadow-sm: 0 1px 2px rgb(16 26 51 / 0.06), 0 1px 1px rgb(16 26 51 / 0.04);
+  --shadow-md: 0 4px 14px rgb(16 26 51 / 0.08), 0 1px 3px rgb(16 26 51 / 0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --canvas: #0a0f1f;
+    --surface: #121a30;
+    --surface-2: #1a2340;
+    --ink: #eef2ff;
+    --ink-2: #b6bfd8;
+    --line: #2a3556;
+    --field: #7783a8;
+    --primary: #8fb0ff;
+    --primary-hover: #adc4ff;
+    --primary-ink: #0a0f1f;
+    --primary-tint: #1a2a5c;
+    --accent: #fb7185;
+    --accent-ink: #fda4af;
+    --focus: #b6ccff;
+    --employment: #8fb0ff;
+    --employment-tint: #1a2a5c;
+    --education: #c4a8ff;
+    --education-tint: #2c1f55;
+    --training: #fbbf6a;
+    --training-tint: #3a2a12;
+    --support: #5eead4;
+    --support-tint: #0f3a36;
+    --success: #86efac;
+    --success-tint: #12331c;
+    --warning: #fbbf6a;
+    --warning-tint: #3a2a12;
+    --danger: #fca5a5;
+    --danger-tint: #3f1818;
+    --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.4);
+    --shadow-md: 0 6px 18px rgb(0 0 0 / 0.45);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --canvas: #0a0f1f;
+  --surface: #121a30;
+  --surface-2: #1a2340;
+  --ink: #eef2ff;
+  --ink-2: #b6bfd8;
+  --line: #2a3556;
+  --field: #7783a8;
+  --primary: #8fb0ff;
+  --primary-hover: #adc4ff;
+  --primary-ink: #0a0f1f;
+  --primary-tint: #1a2a5c;
+  --accent: #fb7185;
+  --accent-ink: #fda4af;
+  --focus: #b6ccff;
+  --employment: #8fb0ff;
+  --employment-tint: #1a2a5c;
+  --education: #c4a8ff;
+  --education-tint: #2c1f55;
+  --training: #fbbf6a;
+  --training-tint: #3a2a12;
+  --support: #5eead4;
+  --support-tint: #0f3a36;
+  --success: #86efac;
+  --success-tint: #12331c;
+  --warning: #fbbf6a;
+  --warning-tint: #3a2a12;
+  --danger: #fca5a5;
+  --danger-tint: #3f1818;
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-md: 0 6px 18px rgb(0 0 0 / 0.45);
+}
+
+@theme inline {
+  --font-sans:
+    var(--font-atkinson), ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-line: var(--line);
+  --color-field: var(--field);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-ink: var(--primary-ink);
+  --color-primary-tint: var(--primary-tint);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-focus: var(--focus);
+  --color-employment: var(--employment);
+  --color-employment-tint: var(--employment-tint);
+  --color-education: var(--education);
+  --color-education-tint: var(--education-tint);
+  --color-training: var(--training);
+  --color-training-tint: var(--training-tint);
+  --color-support: var(--support);
+  --color-support-tint: var(--support-tint);
+  --color-success: var(--success);
+  --color-success-tint: var(--success-tint);
+  --color-warning: var(--warning);
+  --color-warning-tint: var(--warning-tint);
+  --color-danger: var(--danger);
+  --color-danger-tint: var(--danger-tint);
+
+  --shadow-card: var(--shadow-sm);
+  --shadow-lift: var(--shadow-md);
+
+  --radius-card: 1rem;
+  --radius-control: 0.75rem;
+
+  --text-display: clamp(2.25rem, 1.4rem + 3.6vw, 4rem);
+  --text-display--line-height: 1.05;
+  --text-title: clamp(1.75rem, 1.2rem + 2vw, 2.75rem);
+  --text-title--line-height: 1.12;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    scroll-padding-top: 5rem;
+    background: var(--canvas);
+  }
+
+  body {
+    min-height: 100dvh;
+    background: var(--canvas);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    font-size: 1.0625rem; /* 17px: comfortable for reading, scales with the user's setting */
+    line-height: 1.6;
+    font-feature-settings: "kern", "liga";
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+    color: var(--ink);
+  }
+
+  p,
+  li {
+    text-wrap: pretty;
+  }
+
+  /* WCAG 2.2: focus must be clearly visible (2.4.7) and not hidden by sticky UI (2.4.11). */
+  :focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  ::selection {
+    background: var(--primary);
+    color: var(--primary-ink);
+  }
+
+  a {
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 0.08em;
+  }
+
+  /* Anchors in running text are always underlined: colour alone must not identify a link (1.4.1). */
+  .prose-links a:not([class]) {
+    color: var(--primary);
+    text-decoration-line: underline;
+  }
+  .prose-links a:not([class]):hover {
+    text-decoration-thickness: 0.14em;
+  }
+
+  /* Honour the visitor's motion preference everywhere (2.3.3). */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      /* biome-ignore lint/complexity/noImportantStyles: a motion preference must beat every other rule */
+      animation-duration: 0.01ms !important;
+      /* biome-ignore lint/complexity/noImportantStyles: a motion preference must beat every other rule */
+      animation-iteration-count: 1 !important;
+      /* biome-ignore lint/complexity/noImportantStyles: a motion preference must beat every other rule */
+      transition-duration: 0.01ms !important;
+      /* biome-ignore lint/complexity/noImportantStyles: a motion preference must beat every other rule */
+      scroll-behavior: auto !important;
+    }
+  }
+
+  @media (forced-colors: active) {
+    :focus-visible {
+      outline-color: Highlight;
+    }
+  }
+}
+
+@layer components {
+  .page {
+    margin-inline: auto;
+    width: 100%;
+    max-width: 72rem;
+    padding-inline: 1rem;
+  }
+  @media (min-width: 40rem) {
+    .page {
+      padding-inline: 1.5rem;
+    }
+  }
+
+  /* Visible only when focused: the first thing keyboard users reach. */
+  .skip-link {
+    position: absolute;
+    left: 1rem;
+    top: -4rem;
+    z-index: 100;
+    border-radius: var(--radius-control);
+    background: var(--ink);
+    color: var(--canvas);
+    padding: 0.75rem 1rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: top 120ms ease;
+  }
+  .skip-link:focus {
+    top: 0.75rem;
+  }
+
+  /* The brand mark: "NEET" struck through. */
+  .strike {
+    position: relative;
+    display: inline-block;
+  }
+  .strike::after {
+    content: "";
+    position: absolute;
+    left: -0.06em;
+    right: -0.06em;
+    top: 54%;
+    height: 0.12em;
+    border-radius: 999px;
+    background: var(--accent);
+    transform: rotate(-4deg);
+  }
+
+  .eyebrow {
+    font-size: 0.8125rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-2);
+  }
+
+  /* A soft, decorative background that never carries information. */
+  .hero-glow {
+    background:
+      radial-gradient(
+        40rem 22rem at 12% -10%,
+        color-mix(in oklab, var(--primary) 16%, transparent),
+        transparent 70%
+      ),
+      radial-gradient(
+        34rem 20rem at 92% 0%,
+        color-mix(in oklab, var(--accent) 12%, transparent),
+        transparent 70%
+      );
+  }
+
+  .scroll-fade {
+    mask-image: linear-gradient(
+      to right,
+      transparent,
+      #000 1.5rem,
+      #000 calc(100% - 1.5rem),
+      transparent
+    );
+  }
+}
+
+@media print {
+  .no-print {
+    /* biome-ignore lint/complexity/noImportantStyles: print hiding must win over component display rules */
+    display: none !important;
+  }
+  body {
+    background: #fff;
+    color: #000;
+  }
+}

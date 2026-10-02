@@ -1,0 +1,42 @@
+{
+  "name": "@unneet/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "UnNEET REST API: search, matching, quizzes, timeline, CV extraction, accounts. Hono + OpenAPI.",
+  "scripts": {
+    "dev": "tsx watch --clear-screen=false --env-file-if-exists=../../.env src/server.ts",
+    "build": "tsup",
+    "start": "node dist/server.js",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "openapi:generate": "tsx scripts/generate-openapi.ts"
+  },
+  "dependencies": {
+    "@better-auth/drizzle-adapter": "catalog:",
+    "@hono/node-server": "catalog:",
+    "@hono/zod-openapi": "catalog:",
+    "@scalar/hono-api-reference": "catalog:",
+    "@unneet/content": "workspace:*",
+    "@unneet/db": "workspace:*",
+    "@unneet/domain": "workspace:*",
+    "@unneet/ingest": "workspace:*",
+    "better-auth": "catalog:",
+    "drizzle-orm": "catalog:",
+    "hono": "catalog:",
+    "mammoth": "catalog:",
+    "pg": "catalog:",
+    "pino": "catalog:",
+    "unpdf": "catalog:",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:",
+    "@types/pg": "catalog:",
+    "pino-pretty": "catalog:",
+    "tsup": "catalog:",
+    "tsx": "catalog:",
+    "typescript": "catalog:",
+    "vitest": "catalog:"
+  }
+}

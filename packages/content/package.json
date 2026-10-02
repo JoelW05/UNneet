@@ -1,0 +1,26 @@
+{
+  "name": "@unneet/content",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Editorial data: skills dictionary, quiz items, timeline rules + dated calendar, pathways, curated programmes. Validated by @unneet/domain schemas.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "check-links": "tsx scripts/check-links.ts"
+  },
+  "dependencies": {
+    "@unneet/domain": "workspace:*",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:",
+    "tsx": "catalog:",
+    "typescript": "catalog:",
+    "vitest": "catalog:"
+  },
+  "sideEffects": false
+}

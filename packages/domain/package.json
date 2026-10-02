@@ -1,0 +1,25 @@
+{
+  "name": "@unneet/domain",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Pure domain logic: taxonomy, schemas, quiz scoring, skill extraction, matching engine. No I/O.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "dependencies": {
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:",
+    "typescript": "catalog:",
+    "vitest": "catalog:"
+  },
+  "sideEffects": false
+}

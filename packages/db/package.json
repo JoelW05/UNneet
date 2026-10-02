@@ -1,0 +1,36 @@
+{
+  "name": "@unneet/db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Drizzle schema, migrations, Postgres client and the data-access layer (search, upsert, facets). Only api and ingest import this.",
+  "exports": {
+    ".": "./src/index.ts",
+    "./schema": "./src/schema/index.ts",
+    "./dev-server": "./src/dev-server.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "dev": "tsx scripts/dev-server.ts",
+    "generate": "drizzle-kit generate",
+    "migrate": "tsx scripts/migrate.ts",
+    "stats": "tsx scripts/stats.ts",
+    "studio": "drizzle-kit studio"
+  },
+  "dependencies": {
+    "@unneet/domain": "workspace:*",
+    "drizzle-orm": "catalog:",
+    "pg": "catalog:"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "catalog:",
+    "@electric-sql/pglite-socket": "catalog:",
+    "@types/node": "catalog:",
+    "@types/pg": "catalog:",
+    "drizzle-kit": "catalog:",
+    "tsx": "catalog:",
+    "typescript": "catalog:",
+    "vitest": "catalog:"
+  }
+}

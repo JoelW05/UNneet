@@ -1,0 +1,668 @@
+{
+  "_comment": "REAL records recorded from https://teaching-vacancies.service.gov.uk/api/v1/jobs.json on 2026-10-01 (Open Government Licence v3.0), chosen to cover the variations seen across all ~7,100 rows. Descriptions are cut to 1,500 characters to keep the fixture small.",
+  "data": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Learning Support Assistant (Maternity cover)",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<p>\r\n\r\n\r\n</p><p>St\r\nJohn Bosco College are looking to appoint an able, highly motivated,\r\nenthusiastic and innovative Learning Support Assistant (LSA) to join our supportive,\r\npassionate and dedicated team of professionals. Our mission is based around\r\n‘without confidence and love, there can be no true education’. </p><p>\r\n\r\n</p><p>We\r\nare therefore looking for candidates who are committed to securing high\r\nstandards and raising academic attainment for all students with special\r\neducational needs. As an LSA you will lead on the development of students’\r\nliteracy and communication skills and contribute to the supportive environment\r\nthat we aim to provide in our Inclusive school.</p><p>\r\n\r\n</p><p>The\r\nmain responsibilities of the LSA role will be to support those students with\r\nSEN needs across the school. The role will include supporting students in the\r\nmainstream classroom on a 1:1 basis and in small groups, developing their\r\nindependent learning, social and emotional regulation skills. </p><p>\r\n\r\n</p><p>Applications are invited from those with good interpersonal\r\nskills and experience in supporting young people with Autism. Previous\r\nexperience of supporting secondary aged students with SEN needs would be\r\ndesirable but is not essential. </p><p>\r\n\r\n</p><p>You\r\nmust also have good literacy and numeracy skills and be committed and reliable,\r\nwith excellent communication skills along with a calm, patient and empathetic\r\nnature.</p><p>\r\n\r\n\r\n\r\n\r\n\r\n</p>",
+      "occupationalCategory": "teaching_assistant",
+      "directApply": false,
+      "employmentType": ["PART_TIME", "TEMPORARY"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressRegion": "London",
+          "streetAddress": "Parkham Street",
+          "postalCode": "SW11 3DQ",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£31,086",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/learning-support-assistant-maternity-cover-saint-john-bosco-college",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Saint John Bosco College",
+        "sameAs": "http://www.sjbc.wandsworth.sch.uk/",
+        "identifier": "135762",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-15T09:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Assistant Head",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<p><strong>The Job: </strong></p><p>Atherton High School seek to appoint an Assistant Headteacher to join the school in January 2027.</p><p><br></p><p><strong>What does this job do?</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(59, 41, 99);\">To provide high-quality strategic leadership across nominated areas of the School Improvement Plan, with specific responsibilities determined according to your strengths, experience and expertise. A background in Science would be advantageous.&nbsp;</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(59, 41, 99);\">To drive sustained school improvement, translating strategic priorities into effective action and securing measurable improvements in the quality of education, pupil outcomes and the wider life of the school.&nbsp;</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(59, 41, 99);\">To strengthen leadership at all levels, particularly middle leadership, through effective line management, coaching, challenge and professional development, building leadership capacity and accountability across the school.&nbsp;</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(59, 41, 99);\">To be an excellent and credible classroom practitioner, modelling consistently high expectations, strong subject knowledge and",
+      "occupationalCategory": "assistant_headteacher",
+      "directApply": null,
+      "employmentType": ["FULL_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Atherton",
+          "addressRegion": "North West",
+          "streetAddress": "Hamilton Street",
+          "postalCode": "M46 0AY",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "Leadership Group L6 - L10",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/assistant-head-37805100-c2ca-4ade-b13e-e5248267c3ec",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Atherton High School",
+        "sameAs": "http://www.athertonhigh.com/",
+        "identifier": "138233",
+        "description": "<div class=\"trix-content\">AHS is an amazing school, with the most wonderful staff.  The school has grown and develop through understanding that our staff are our most valued asset so we continually invest in our colleagues and we believe that all teaching and support staff posts within our schools are key in terms of supporting pupil achievement and improving their life chances. \n\nAs such we are keen to recruit dedicated and ambitious professionals who will add value to our schools and trust by helping our young people to succeed.\n\nSituated with great commuter links, AHS, serves all pupils from our local community.\n</div>",
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-19T10:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Teacher of Science - Fixed Perm",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<p>\r\n</p><p><span style=\"font-size: 1.1875rem;\">Highfield Leadership Academy is a state-of-the-art secondary school for 11 to 16 year olds in Blackpool. We joined Star Academies in 2016 and, like all Star schools, we have a leadership specialism.</span></p><p>We are a rapidly improving school with high ambitions and expectations for all of our pupils. We provide a knowledge-based academic curriculum alongside a rich and diverse leadership programme that grows character and inspires charitable and social action. Our pursuit of educational excellence is based upon our fundamental belief that every pupil has the capacity to become a successful and inspirational leader.</p><p>\r\n\r\n</p>",
+      "occupationalCategory": "teacher",
+      "directApply": false,
+      "employmentType": ["FULL_TIME", "TEMPORARY"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Blackpool",
+          "addressRegion": "North West",
+          "streetAddress": "Highfield Road",
+          "postalCode": "FY4 3JZ",
+          "addressCountry": "GB"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/teacher-of-science-fixed-perm",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Highfield Leadership Academy",
+        "sameAs": "http://highfieldleadershipacademy.com",
+        "identifier": "142469",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-11T23:59:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Site Officer (Apprentice)",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<div><p><b>Insignis Academy Trust</b></p><p><b>We have an exciting opportunity to join our successful, vibrant community as a</b></p><p><b>SITE OFFICER </b></p><p><b>with the opportunity to complete an Apprenticeship</b></p><p><b>Permanent, full time</b></p><p><b>37 hours per week, 52 weeks per year</b></p><p><b>(plus 3 hours paid at overtime rate of 1.5 to be worked term time only 39 weeks as agreed with Site Manager)</b><b></b></p><p><b>Salary - Bucks Pay Range 2 </b></p><p><b>(£26,522 - £28,742 per annum)</b></p><p><b>Start date: November 2026 </b></p><p>This role will work as part of a Central Services Chief Operations Officers Support Team and who provide a service across the Insignis Academy Trust Schools of Princes Risborough School, Sir Henry Floyd Grammar School, The Mandeville School, The Kingsbrook School which opened in September 2022, Sir William Ramsay School and the Ashmead Combined School. </p><p>The role reports to Princes Risborough School Site Manager and is primarily based at Princes Risborough School, however there may be additional travel to other sites if required.</p><p>The role will suit an individual who is a team player with good communication and organisation skills, has the aptitude to initiate improvements whilst also being responsive to staff and student requests for assistance. </p><p>This is a ‘hands-on role’ role that will cover the areas of security, health and safety, premises repairs, maintenance and improvement, operation of plant and equ",
+      "occupationalCategory": "catering_cleaning_and_site_management",
+      "directApply": null,
+      "employmentType": ["FULL_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Aylesbury",
+          "addressRegion": null,
+          "streetAddress": "Oxford Road",
+          "postalCode": "HP21 8PE",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£26,522.00 - £28,742.00 Annually (Actual)\n\rSalary – Bucks Pay Range 2  (£26,522 - £28,742 per annum), 37 hours per week, 52 weeks per year (plus 3 hours paid at overtime rate of 1.5 to be worked term time",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/site-officer-apprentice-insignis-academy-trust",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Insignis Academy Trust",
+        "sameAs": null,
+        "identifier": "16401",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-12T12:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Sports Coach Apprentice",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<div><p><b>Job Title </b>Sports Coach Apprentice <b></b></p><p>Employment Status: Fixed term for 18 months</p><p>Working Hours: 30 hours, All year round</p><p><b>Actual Salary: </b>Apprenticeship rate in line with government guidelines</p><p><b>Full time equivalent salary: </b>£8.00 an hour, £12,514 pro rata, per annum</p><p><b>Required: </b>As soon as possible<b></b></p><p>Location: Frederick Bird Academy, Coventry</p><p><b>About the role </b></p><p>We are seeking to appoint an apprentice sports coach to join our team. The successful apprentice will be expected to apply themselves to the apprenticeship with commitment and diligence. The apprentice will also be required to commit to the school's values and ethos.</p><p>The postholder will need to deliver engaging multisport training programmes to children/young people including those who have special physical, emotional and educational needs.</p><p>We are looking for someone who:</p><ul><li> Has good communication skills</li><li> Can work as part of a team</li><li> Has good literacy and numeracy skills.</li><li> Is motivated to develop as an individual and complete the training to achieve the apprenticeship qualification</li></ul><p>All staff are expected to know what to do if they have concerns about a child, take on the responsibility for providing a safe environment and promoting children’s welfare, undertake regular safeguarding and child protection training and, familiarise themselves with KCSIE part 1 and local policies",
+      "occupationalCategory": "other_support",
+      "directApply": null,
+      "employmentType": ["PART_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "streetAddress": "Swan Lane",
+          "postalCode": "CV2 4QQ",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£12,514.00 - £16,972.00 Annually (Actual)\n\rApprenticeship rate in line with government guidelines",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/sports-coach-apprentice-frederick-bird-academy-coventry-west-midlands",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Frederick Bird Academy",
+        "sameAs": "http://www.frederickbird.coventry.sch.uk/",
+        "identifier": "150321",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-16T09:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Apprentice Teaching Assistant",
+      "jobBenefits": null,
+      "datePosted": "2026-09-30",
+      "description": "<p>\r\n\r\n\r\n</p><p>We are looking for someone who:</p><p>\r\n\r\n</p><ul type=\"disc\">\r\n <li>is confident\r\n     in their ability and can work with initiative</li>\r\n <li>educated\r\n     to GSCE standard (English and Maths grade 4 or above) or equivalent</li>\r\n <li>is\r\n     able to use computer programs </li>\r\n <li>Someone\r\n     who wants to work within an Early Years setting</li>\r\n <li>Keen\r\n     to support young children with their learning and structured play</li>\r\n <li>works\r\n     well within a team, is keen to share ideas and happy to take advice from\r\n     colleagues and specialist staff</li>\r\n</ul><p>\r\n\r\nis caring, friendly,\r\nadaptable and hardworking\r\n\r\n\r\n\r\n</p>",
+      "occupationalCategory": "teaching_assistant",
+      "directApply": false,
+      "employmentType": ["FULL_TIME", "TEMPORARY"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Huddersfield",
+          "addressRegion": "Yorkshire and the Humber",
+          "streetAddress": "The Avenue",
+          "postalCode": "HD5 8AE",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£12.42 per hour",
+          "unitText": "HOUR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/apprentice-teaching-assistant-moldgreen-community-primary-school",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Moldgreen Community Primary School",
+        "sameAs": "http://www.moldgreenprimary.co.uk",
+        "identifier": "107691",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-14T12:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Exam invigilators",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<p>\r\n\r\n\r\n</p><p>We have a\r\nnumber of vacancies for invigilators to join our team.</p><p>\r\n\r\n</p><p>You\r\nshould have good verbal communication skills and be able to be firm but\r\nunderstanding with students during this stressful time.  IT skills and fluency in an additional\r\nlanguage would also be advantageous.  You\r\nare expected to work flexible hours and to work as part of a team.  Previous invigilation experience would be\r\nhelpful but not essential as training will be given.</p><p>\r\n\r\n\r\n\r\n\r\n\r\n</p>",
+      "occupationalCategory": "other_support",
+      "directApply": false,
+      "employmentType": ["PART_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressRegion": "London",
+          "streetAddress": "Hemington Avenue",
+          "postalCode": "N11 3LS",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "14.80 per hour",
+          "unitText": "HOUR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/exam-invigilators-friern-barnet-school",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Friern Barnet School",
+        "sameAs": "http://www.friern.barnet.sch.uk/",
+        "identifier": "101345",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-11-02T09:00:00+00:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Education Support Assistant",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<p>\r\n\r\n\r\n</p><ul><li>Supervise the students working on a pre-set learning\r\nactivity in the absence of a teacher or within the Independent Learning Unit.</li><li>Establish productive working relationships with\r\nstudents, acting as a role model and setting high expectations.</li><li>Liaise with the designated class teacher to understand\r\nwhat the pre-prepared exercise for the class will be and what resources may be\r\ngiven to students to facilitate learning.</li><li>Record and report attendance at lessons in accordance\r\nwith Academy procedures.</li><li>Explain and respond to students about what is required\r\nand what pre-prepared task/exercise they will be expected to undertake.</li><li>Answer any general questions the students have in\r\nrelation to the work set and model expectations to students.</li><li>Manage behaviour of students to ensure that a\r\nconstructive learning environment is maintained by using a range of strategies\r\nto deal with classroom behaviour as a whole, and also individual behavioural\r\nneeds.  This will include meeting and\r\ncommunicating with parents as required.</li><li>Report back to the designated class teacher as\r\nappropriate.</li><li>Work with teaching staff to establish an appropriate\r\nlearning environment which is purposeful, orderly and productive.</li><li>Assist teaching staff in lesson planning, evaluating\r\nand adjusting lessons/work plans as appropriate.</li><li>Ensure timely and accurate design, preparation and use\r\nof specialist equipment/resource",
+      "occupationalCategory": "teaching_assistant",
+      "directApply": false,
+      "employmentType": ["FULL_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Nottingham",
+          "addressRegion": "East Midlands",
+          "streetAddress": "Harvey Road",
+          "postalCode": "NG8 3GP",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "From £29,542 - £33,119 FTE",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/education-support-assistant-6b22447d-b88d-4a21-aafc-99e5cc211e90",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Bluecoat Beechdale Academy",
+        "sameAs": "http://www.bluecoatbeechdale.co.uk",
+        "identifier": "140369",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-09T09:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Preschool Practitioner (1:1) – Little Explorers Preschool",
+      "jobBenefits": null,
+      "datePosted": "2026-09-25",
+      "description": "<p>\r\n</p><p>About Our Federation</p><p>We value and respect every individual within an atmosphere of Christian love. Our welcoming community builds strong relationships and is dedicated to supporting everyone to flourish academically, emotionally, socially and culturally through an excellent and engaging curriculum.</p><p>Preschool Practitioner (1:1) – Little Explorers Preschool</p><p>The successful candidate will provide dedicated 1:1 support for a child with additional needs, helping them to access learning opportunities, develop independence and achieve their full potential within a nurturing Early Years environment.</p><p>At the Federation of the Church Schools of Shalfleet and Freshwater &amp; Yarmouth, our children are at the heart of everything we do. We believe that our preschool is often the first step in a child's educational journey, and we are deeply committed to providing a nurturing, inclusive and high-quality Early Years’ experience.</p><p>For our staff, we offer an inclusive and supportive working environment where professional development and wellbeing are genuinely valued. Our school values of Respect, Resilience and Relationships shape our culture and guide our work every day.</p><p>We are pleased to offer an exciting opportunity to join our Little Explorers Preschool team as a 1:1 Preschool Practitioner, providing dedicated support to a child with additional needs and helping them access all areas of learning and development within the Early Years Foundati",
+      "occupationalCategory": "other_support",
+      "directApply": false,
+      "employmentType": ["PART_TIME", "TEMPORARY"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": null,
+          "addressRegion": null,
+          "streetAddress": null,
+          "postalCode": null,
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£25,185",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/preschool-practitioner-1-1-little-explorers-preschool",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Isle of Wight local authority",
+        "sameAs": "https://www.iow.gov.uk/jobs",
+        "identifier": null,
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-02T12:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Vice Principal",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<p>\r\n\r\n\r\n</p><p>Core\r\nPurpose</p><p>\r\n\r\n\r\n\r\n</p><p>As a Vice Principal, you will; </p><p>\r\n\r\n</p><ul><li>Provide\r\nhigh-impact, academy-wide leadership that improves the quality and consistency\r\nof provision.</li><li>Drive the\r\nconsistent, effective and sustainable implementation of the Academy\r\nImprovement Plan.</li><li>Build leadership and staff capacity\r\nso high-quality practice is\r\nembedded, sustained and owned across\r\nthe Academy.</li><li>Deputise for the Principal and take significant ownership of the Academy’s day-to-day operational\r\nleadership.</li><li>Model and secure\r\nconsistent implementation of Academy\r\nexpectations to strengthen practice and the climate for learning.</li><li>Use performance data, quality-assurance evidence\r\nand professional judgement to\r\nevaluate provision and drive\r\nimprovement.</li><li>Foster a professional culture of integrity,\r\ncontinuous learning and collective\r\nresponsibility for improvement.</li></ul><p>\r\n\r\n</p><ul type=\"disc\">\r\n <li>Apply expertise in curriculum, teaching,\r\n     assessment, inclusion, behaviour, SEND and personal development so all students belong and flourish.</li>\r\n</ul><p>\r\n\r\n</p><p>\r\n\r\n</p><p>\r\n\r\n</p><p>\r\n\r\n</p><ul type=\"disc\">\r\n <li>Lead evidence-informed professional learning across\r\n     curriculum, teaching, behaviour and inclusion.</li>\r\n</ul><p>\r\n\r\n</p><p>\r\n\r\n</p><p>\r\n\r\n</p><ul type=\"disc\">\r\n <li>Champion an Academy culture of ambition, equity, inclusion\r\n     and high expectations for all students.</li>\r\n</ul><p",
+      "occupationalCategory": "assistant_headteacher",
+      "directApply": false,
+      "employmentType": ["FULL_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Nottingham",
+          "addressRegion": null,
+          "streetAddress": "Aspley Lane",
+          "postalCode": "NG8 5GY",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "From £76,772 - £95,735 Per annum",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/vice-principal-archway-learning-trust",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Archway Learning Trust",
+        "sameAs": null,
+        "identifier": "2363",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-09T09:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Agricultural Engineering Lecturer",
+      "jobBenefits": "<p>Recruitment Attraction Payment available</p>",
+      "datePosted": "2026-10-01",
+      "description": "<p>\r\n</p><p>✨ Shape the future of agricultural engineering!</p><p>Every lesson shapes a life. Are you ready to inspire and develop the agricultural engineers of tomorrow?</p><p>Sparsholt College Hampshire is seeking an enthusiastic and dedicated Lecturer in Agricultural Engineering to join our successful and growing agriculture department. You will become part of an experienced, supportive teaching team and play a key role in delivering and developing high-quality land-based engineering programmes.</p><p>The role 🌱</p><p>You will be responsible for teaching, tutoring and assessing learners across a range of agricultural engineering subjects, delivering learning in both classroom and practical environments.</p><p>Our broad curriculum includes:</p><ul><li>Land-based engineering qualifications at Level 2 and Level 3</li><li>Agricultural engineering elements embedded within agriculture programmes</li></ul><p>You will work closely with the Farm and Workshop teams to plan engaging, relevant learning that fully utilises our exceptional resources throughout the academic and agricultural year.</p><p>A genuine passion for inspiring young people and supporting them to achieve their goals within the land-based sector is essential.</p><p>Suitable candidates should have the following:</p><p>Essential:</p><ul><li>Level 3 or higher qualification in agricultural engineering/fabrication welding or similar</li><li>Minimum of 3 years’ experience working in agricultural engineering</li><li>GCSE ",
+      "occupationalCategory": "teacher",
+      "directApply": false,
+      "employmentType": ["FULL_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Winchester",
+          "addressRegion": "South East",
+          "streetAddress": "Westley Lane",
+          "postalCode": "SO21 2NF",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "Up to £39,201",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/agricultural-engineering-lecturer",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Sparsholt College Hampshire",
+        "sameAs": "http://www.sparsholt.ac.uk",
+        "identifier": "130698",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-07T23:59:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Cleaner",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<div><p>Greenfield CofE Lower School has a vacancy for a cleaner.</p><p>Working hours are 10 hours per week, term time plus 4 weeks during holidays (44 weeks), hours 4.00 pm - 6.00 pm each day Monday to Friday. </p><p>Hourly Rate: Level 1B Point 3 - £12.85</p><p><b>The role involves:</b></p><p>Carrying out essential cleaning and tidying tasks in designated areas of the school to ensure that the school is maintained to a high standard of cleanliness.</p><p> Clean designated areas, working to a time allocation, of the school using appropriate tools and materials including cloths, detergents, mop, brush, duster, vacuum and floor cleaner as required to ensure a high standard of cleanliness and hygiene is maintained</p><p> Empty litter, external and recycling bins and dispose of waste accordingly</p><p> Top up consumables as and when required</p><p> Move furniture and equipment if required for cleaning, with assistance from a colleague where necessary, to enable cleaning to all areas</p><p> Inform the school Office Manager of matters that require attention/replacement</p><p> Ensure that doors and windows are secure and lights are turned off</p><p>Duties will require the use of physical effort on a daily basis and there may be some contact with unpleasant substances, e.g., body fluids, faeces.</p><p>Greenfield CofE School is committed to safeguarding and promoting the welfare of children and safer recruitment practice and expects its entire staff to share this commitment. An enhanc",
+      "occupationalCategory": "catering_cleaning_and_site_management",
+      "directApply": null,
+      "employmentType": ["PART_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bedford",
+          "addressRegion": null,
+          "streetAddress": "Greenfield",
+          "postalCode": "MK45 5ES",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£12.85 Annually (Actual)",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/cleaner-greenfield-pulloxhill-academy-bedford-not-recorded",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Greenfield & Pulloxhill Academy",
+        "sameAs": null,
+        "identifier": "3245",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-23T23:59:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Administrative Assistant",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<div><p><b>Main duties and responsibilities</b></p><ul><li>Assisting the Operations Manager with the effective administrative support of the school.</li><li>Assisting the Attendance Team with the effective administrative support of the school.</li><li>General administrative duties including word processing, copy typing, photocopying and filing.</li><li>First Aid duties (training will be provided for the right candidate).</li><li>Lunchtime Midday Supervisory Assistance (training will be provided for the right candidate).</li><li>Ensuring comprehensive administrative support in order to maintain efficient working.</li></ul><p><b>The successful candidate should be able to demonstrate:</b></p><ul><li>A sound knowledge of all administrative supporting procedures. </li><li>Excellent communication, organisation and IT skills. </li><li>The ability to work under extreme pressure and demands. </li><li>Personal ambition and the capacity for hard work.</li><li> School experience and systems would be an advantage.</li><li>Experience of working within a large team, and on own intitiative.</li></ul></div>",
+      "occupationalCategory": "administration_hr_data_and_finance",
+      "directApply": null,
+      "employmentType": ["FULL_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Keighley",
+          "addressRegion": "Yorkshire and the Humber",
+          "streetAddress": "Holme Lane",
+          "postalCode": "BD20 7RL",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£22,452.00 - £23,168.00 Annually (Actual)",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/administrative-assistant-south-craven-school",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "South Craven School",
+        "sameAs": "http://www.southcraven.org/",
+        "identifier": "136736",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-16T12:00:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "ICT Technician",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<p>\r\n\r\n\r\n</p><p>ICT Technician</p><p>\r\n\r\n</p><p>Closing date: Sunday 18 October 2026 Midnight</p><p>\r\n\r\n</p><p>Interview: Week Beginning 19 October 2026</p><p>\r\n\r\n</p><p>Start Date: January 2027 (Earlier if Possible)</p><p>\r\n\r\n</p><p>Salary: £30,000 - £35,000 FTE depending on skills and\r\nexperience</p><p>\r\n\r\n</p><p>52 Weeks</p><p>\r\n\r\n\r\n\r\n</p><p>About United Learning\r\n \r\nUnited Learning is a unique group of independent and state schools working\r\ntogether to achieve the best in everyone. Our vision is to provide excellent\r\neducation so that all young people are able to make a success of their lives\r\nand, if we are to realise this vision, we need to make sure we attract, develop\r\nand reward the key ingredient – you.\r\n </p><p>\r\n\r\n</p><p>Job Introduction</p><p>\r\n\r\n</p><p>We seek an analytical, curious and innovative ICT\r\nTechnician to join a dynamic and supportive Academy. You will have the\r\nopportunity to share expertise across a growing group of Academies and\r\nindependent schools within United Learning.  As the ICT Technician you\r\nwould provide responsive, high-quality IT support to staff and students,\r\nkeeping the Academy’s devices, cloud services, classroom technology, telephony\r\nand network running smoothly and securely. You will need to be able to work\r\nindependently, with initiative, and be flexible.</p><p>\r\n\r\n\r\n\r\n</p><p> We know that outstanding ICT Technicians have\r\ntransferable skills and are confident and effective in all aspects of this role\r\nbut we also recognise that",
+      "occupationalCategory": "it_support",
+      "directApply": false,
+      "employmentType": ["FULL_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressRegion": "London",
+          "streetAddress": "Billet Road",
+          "postalCode": "E17 5DP",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "Between £30,000 and £35,000",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/ict-technician-walthamstow-academy",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Walthamstow Academy",
+        "sameAs": "http://www.walthamstow-academy.org/",
+        "identifier": "132727",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-18T23:59:00+01:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Assistant Cook",
+      "jobBenefits": null,
+      "datePosted": "2026-10-01",
+      "description": "<div><p><b>Do you have a passion for food and enjoy making a difference to children's lives?</b></p><p>We are looking for an enthusiastic, reliable and caring Assistant Cook to join our friendly catering team at St Bede Academy.</p><p>This is an exciting opportunity for someone who enjoys preparing nutritious meals, supporting healthy eating and creating positive dining experiences for children from Early Years through to Key Stage 2.</p><p>Working alongside colleagues across the school and our on-site nursery, Baby Bede, you will play an important role in preparing and serving high-quality meals and ensuring children enjoy food that is both nutritious and appealing.</p><p>If you are passionate about food, enjoy working as part of a team and take pride in delivering excellent service, we would love to hear from you.</p><p><b>About the Role</b></p><p>The successful candidate will:</p><p>✅ Prepare, cook and serve meals for both the school and on-site nursery.</p><p>✅ Work with the Nursery Manager to help design and develop menus that are nutritious, varied and appealing.</p><p>✅ Support menu planning for both the school and nursery, helping to introduce new ideas and seasonal dishes.</p><p>✅ Develop an understanding of EYFS nutritional guidance to ensure our youngest children receive the best possible start.</p><p>✅ Support children with dietary, medical and allergen requirements.</p><p>✅ Maintain high standards of food hygiene, cleanliness and food safety.</p><p>✅ Help reduce ",
+      "occupationalCategory": "catering_cleaning_and_site_management",
+      "directApply": null,
+      "employmentType": ["FULL_TIME"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bolton",
+          "addressRegion": "North West",
+          "streetAddress": "Morris Green Lane",
+          "postalCode": "BL3 3LJ",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£13.11 Hourly",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/assistant-cook-st-bede-academy",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "St Bede Academy",
+        "sameAs": "http://www.stbedeacademy.org/",
+        "identifier": "136889",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-30T23:59:00+00:00"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "title": "Teacher of Social Science",
+      "jobBenefits": "<p>Pension Scheme (TPS) + Harris Wellbeing Cash Plan + Additional Harris Benefits</p>",
+      "datePosted": "2026-10-01",
+      "description": "<p>\r\nWe are currently looking to appoint a dedicated and inspiring Teacher of Social Science, who is willing to teach PSHRE, Health and Social Care, Sociology and Psychology, to cover maternity leave within our academy.\r\n\r\n</p><p>At Harris Academy St John's Wood, you will join a dedicated team of teachers and staff supporting our excellent students. If you are looking for an opportunity to grow, inspire and develop, this may be the role for you.</p><p>The successful candidate will:</p><ul><li>Hold QTS (or equivalent) and a relevant undergraduate degree</li><li>Have successful teaching experience at secondary level (can be teaching practice), ideally including experience in multi-ethnic urban schools and of working in an 11-18 school</li><li>Understand the theory and practice of effective teaching and learning</li><li>Understand the importance of high expectations and equality of access for all students, and of being a tutor</li><li>Have knowledge of National Curriculum requirements at KS3 and KS4, and of writing lesson plans, developing resources and assessing students' work</li><li>Be able to work as part of a team and to develop and maintain positive relationships with all staff</li><li>Have a good level of ICT skills, ideally including innovative use of interactive white boards</li><li>Be able to create a motivating and safe learning environment for all students</li><li>Be able to communicate positively with parents, carers and other external agencies where necessary</li><",
+      "occupationalCategory": "teacher",
+      "directApply": false,
+      "employmentType": ["FULL_TIME", "TEMPORARY"],
+      "industry": "Education",
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressRegion": "London",
+          "streetAddress": "Marlborough Hill",
+          "postalCode": "NW8 0NL",
+          "addressCountry": "GB"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "£42,317- £54,300",
+          "unitText": "YEAR"
+        }
+      },
+      "url": "https://teaching-vacancies.service.gov.uk/jobs/teacher-of-social-science-1e974b29-8f3a-49d4-9ebe-c39691329eb4",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Harris Academy St John's Wood",
+        "sameAs": "https://www.harrisstjohnswood.org.uk/",
+        "identifier": "145126",
+        "description": null,
+        "logo": "/assets/images/govuk-icon-180-e3675089.png"
+      },
+      "validThrough": "2026-10-15T23:59:00+01:00"
+    }
+  ]
+}

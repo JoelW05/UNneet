@@ -1,0 +1,31 @@
+{
+  "name": "@unneet/ingest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Provider adapters and the normalise → validate → classify → upsert pipeline. Licence-aware: store / cache / live per provider.",
+  "exports": {
+    ".": "./src/index.ts",
+    "./federated": "./src/federated/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "ingest": "tsx --env-file-if-exists=../../.env src/cli.ts",
+    "seed": "tsx --env-file-if-exists=../../.env src/seed.ts",
+    "ats:discover": "tsx scripts/discover-ats.ts"
+  },
+  "dependencies": {
+    "@unneet/content": "workspace:*",
+    "@unneet/db": "workspace:*",
+    "@unneet/domain": "workspace:*",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:",
+    "drizzle-orm": "catalog:",
+    "tsx": "catalog:",
+    "typescript": "catalog:",
+    "vitest": "catalog:"
+  }
+}

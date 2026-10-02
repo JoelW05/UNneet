@@ -1,0 +1,26 @@
+{
+  "name": "@unneet/api-client",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Typed client for the UnNEET API, generated from apps/api/openapi.json. Used by the website; usable by anyone.",
+  "exports": {
+    ".": "./src/index.ts",
+    "./schema": "./src/schema.d.ts"
+  },
+  "scripts": {
+    "generate": "openapi-typescript ../../apps/api/openapi.json -o src/schema.d.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "openapi-fetch": "catalog:"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:",
+    "openapi-typescript": "catalog:",
+    "typescript": "catalog:",
+    "vitest": "catalog:"
+  },
+  "sideEffects": false
+}

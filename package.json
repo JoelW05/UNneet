@@ -1,0 +1,35 @@
+{
+  "name": "unneet",
+  "version": "0.1.0",
+  "private": true,
+  "description": "UnNEET — one place to find a job, apprenticeship, course or training opportunity in the UK.",
+  "license": "MIT",
+  "packageManager": "pnpm@12.8.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "typecheck": "turbo run typecheck",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "format": "biome format --write .",
+    "test": "turbo run test",
+    "test:e2e": "turbo run test:e2e",
+    "check": "pnpm lint && pnpm typecheck && pnpm test",
+    "db:dev": "pnpm --filter @unneet/db dev",
+    "db:migrate": "pnpm --filter @unneet/db migrate",
+    "db:generate": "pnpm --filter @unneet/db generate",
+    "db:seed": "pnpm --filter @unneet/ingest seed",
+    "db:stats": "pnpm --filter @unneet/db stats",
+    "ingest": "pnpm --filter @unneet/ingest ingest",
+    "content:check-links": "pnpm --filter @unneet/content check-links",
+    "openapi": "pnpm --filter @unneet/api openapi:generate && pnpm --filter @unneet/api-client generate"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "catalog:",
+    "turbo": "catalog:",
+    "typescript": "catalog:"
+  }
+}

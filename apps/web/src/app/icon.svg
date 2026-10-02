@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="UnNEET">
+  <rect width="64" height="64" rx="14" fill="#101a33"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#ffffff">N</text>
+  <rect x="9" y="29" width="46" height="5" rx="2.5" fill="#e11d48" transform="rotate(-8 32 31.5)"/>
+</svg>

@@ -1,0 +1,65 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.5.15/schema.json",
+  "vcs": { "enabled": true, "clientKind": "git", "useIgnoreFile": true },
+  "files": {
+    "includes": [
+      "**",
+      "!**/node_modules",
+      "!**/dist",
+      "!**/.next",
+      "!**/.turbo",
+      "!**/.data",
+      "!**/coverage",
+      "!**/playwright-report",
+      "!**/test-results",
+      "!**/*.generated.ts",
+      "!packages/api-client/src/schema.d.ts",
+      "!apps/api/openapi.json",
+      "!**/migrations/meta",
+      "!pnpm-lock.yaml"
+    ]
+  },
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineWidth": 100
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "single",
+      "semicolons": "always",
+      "trailingCommas": "all"
+    }
+  },
+  "css": { "parser": { "tailwindDirectives": true } },
+  "assist": { "actions": { "source": { "organizeImports": "on" } } },
+  "overrides": [
+    {
+      "includes": ["**/test/**"],
+      "linter": { "rules": { "suspicious": { "noExplicitAny": "off" } } }
+    }
+  ],
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "preset": "recommended",
+      "a11y": { "preset": "recommended" },
+      "correctness": {
+        "noUnusedImports": "error",
+        "noUnusedVariables": "error",
+        "useExhaustiveDependencies": "error"
+      },
+      "style": {
+        "useImportType": "error",
+        "useNodejsImportProtocol": "error",
+        "noNonNullAssertion": "warn"
+      },
+      "suspicious": {
+        "noExplicitAny": "error",
+        "noConsole": { "level": "warn", "options": { "allow": ["warn", "error", "info"] } }
+      },
+      "security": { "noDangerouslySetInnerHtml": "error" }
+    }
+  }
+}
